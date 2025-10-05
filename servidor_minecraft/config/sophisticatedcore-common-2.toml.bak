@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:blasting_upgrade|true", "sophisticatedbackpacks:advanced_tool_swapper_upgrade|true", "sophisticatedbackpacks:advanced_filter_upgrade|true", "sophisticatedbackpacks:advanced_alchemy_upgrade|true", "sophisticatedbackpacks:iron_backpack|true"]
+
