@@ -365,3 +365,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 16:23:00.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
 [05Oct2025 16:25:42.328] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/170, l='ServerLevel[world]', x=-2661.18, y=68.50, z=123.70] died, message: 'Villager suffocated in a wall'
 [05Oct2025 16:30:04.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has reached the goal [Plant Food]
+[05Oct2025 16:43:40.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2198, y=48, z=-440} BlockPos{x=-2199, y=46, z=-439}
+[05Oct2025 16:43:40.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2198, y=48, z=-440} BlockPos{x=-2199, y=46, z=-439}
+[05Oct2025 16:43:40.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2198, y=48, z=-440} BlockPos{x=-2199, y=46, z=-439}
+[05Oct2025 16:45:25.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.233.187.33:53095] logged in with entity id 6321 at (-2637.3332790393347, 67.0, 188.01116055485429)
+[05Oct2025 16:45:25.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[05Oct2025 16:45:26.514] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[05Oct2025 16:45:26.515] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[05Oct2025 16:45:31.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[05Oct2025 16:45:32.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[05Oct2025 16:45:32.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[05Oct2025 16:45:44.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> brooo
+[05Oct2025 16:45:44.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> unete al grupo
+[05Oct2025 16:45:49.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> donde estas??
+[05Oct2025 16:46:00.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> me llevo la marea
+[05Oct2025 16:46:10.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> como asi?
+[05Oct2025 16:46:31.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> estoy buscando un lugar para hacer la base
+[05Oct2025 16:49:07.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> xaero-waypoint:penazo:P:-1972:63:-622:9:false:0:Internal-overworld-waypoints
+[05Oct2025 16:53:59.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok
+[05Oct2025 16:54:47.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> en este bioma suele haber andesita
+[05Oct2025 16:54:55.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si
+[05Oct2025 16:55:02.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> yo vivia en uno de estos
+[05Oct2025 16:55:16.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> otro server
+[05Oct2025 16:55:27.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> en el anterior
+[05Oct2025 16:56:45.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> se parece a la que yo vivia

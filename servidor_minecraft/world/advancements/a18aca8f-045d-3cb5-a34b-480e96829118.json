@@ -7,8 +7,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-10-05 16:54:16 +0000",
       "minecraft:deep_ocean": "2025-10-04 23:30:36 +0000",
       "minecraft:frozen_river": "2025-10-05 00:21:30 +0000",
+      "minecraft:birch_forest": "2025-10-05 16:53:09 +0000",
       "minecraft:windswept_hills": "2025-10-05 00:36:06 +0000",
       "minecraft:beach": "2025-10-04 23:21:33 +0000",
       "minecraft:dark_forest": "2025-10-04 23:20:24 +0000",
@@ -21,6 +23,7 @@
       "minecraft:frozen_ocean": "2025-10-05 00:31:34 +0000",
       "minecraft:windswept_forest": "2025-10-05 01:11:38 +0000",
       "minecraft:ocean": "2025-10-04 23:30:12 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-10-05 16:53:57 +0000",
       "minecraft:snowy_beach": "2025-10-05 00:21:59 +0000",
       "minecraft:plains": "2025-10-04 23:37:15 +0000"
     },
@@ -762,6 +765,8 @@
       "mutton": "2025-10-04 23:37:20 +0000",
       "bread": "2025-10-05 01:20:54 +0000",
       "rotten_flesh": "2025-10-04 23:29:51 +0000",
+      "glow_berries": "2025-10-05 16:51:51 +0000",
+      "cod": "2025-10-05 16:52:12 +0000",
       "cooked_salmon": "2025-10-05 00:10:02 +0000"
     },
     "done": false
@@ -3298,15 +3303,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-10-05 02:10:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-10-05 02:10:53 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_backpack": "2025-10-05 02:10:43 +0000"
+      "has_cod": "2025-10-05 16:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-10-05 16:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-10-05 16:46:00 +0000"
     },
     "done": true
   },
