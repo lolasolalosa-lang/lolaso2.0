@@ -389,3 +389,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 16:55:16.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> otro server
 [05Oct2025 16:55:27.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> en el anterior
 [05Oct2025 16:56:45.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> se parece a la que yo vivia
+[05Oct2025 17:05:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bro?
+[05Oct2025 17:05:29.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> broskychacho?
+[05Oct2025 17:05:41.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> bro
+[05Oct2025 17:05:49.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> tu me oyes?
+[05Oct2025 17:05:52.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> me oyes?
+[05Oct2025 17:05:56.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> no
+[05Oct2025 17:06:19.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> me puedes escuchar?
+[05Oct2025 17:06:42.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[05Oct2025 17:06:42.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[05Oct2025 17:06:42.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[05Oct2025 17:06:49.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.245.174.254:54047] logged in with entity id 15959 at (-1903.5086916267517, 69.0, -1083.9536038645508)
+[05Oct2025 17:06:49.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[05Oct2025 17:06:49.250] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[05Oct2025 17:06:49.251] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[05Oct2025 17:06:52.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[05Oct2025 17:06:53.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[05Oct2025 17:06:53.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
+[05Oct2025 17:07:14.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> me escucho?
+[05Oct2025 17:07:17.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> nel
+[05Oct2025 17:07:27.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si no hablamos por dc
+[05Oct2025 17:08:15.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> mera a ver si no me tienes mute
+[05Oct2025 17:08:22.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> no
+[05Oct2025 17:08:35.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> vamos a dc
+[05Oct2025 17:08:38.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok
+[05Oct2025 17:23:49.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Not Today, Thank You]
