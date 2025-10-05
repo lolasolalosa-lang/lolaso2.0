@@ -457,3 +457,80 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 18:00:49.649] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
 [05Oct2025 18:01:19.936] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8c56e7c[id=<null>,name=wlax,properties={},legacy=false] (/127.153.210.29:37257) lost connection: Disconnected
 [05Oct2025 18:01:52.191] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bf196a9[id=<null>,name=wlax,properties={},legacy=false] (/127.153.210.29:46051) lost connection: Disconnected
+[05Oct2025 18:02:25.437] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61b4b7bb[id=<null>,name=wlax,properties={},legacy=false] (/127.153.210.29:46189) lost connection: Disconnected
+[05Oct2025 18:05:25.337] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cbf3a6d[id=<null>,name=wlax,properties={},legacy=false] (/127.153.210.29:38051) lost connection: Disconnected
+[05Oct2025 18:07:24.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wlax[/127.153.210.29:36085] logged in with entity id 36858 at (-642.4499887325804, 85.43000305444002, 363.1953466196565)
+[05Oct2025 18:07:24.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax joined the game
+[05Oct2025 18:07:25.702] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wlax (20)
+[05Oct2025 18:07:25.703] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wlax
+[05Oct2025 18:07:33.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 18:07:34.336] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 18:07:34.336] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[05Oct2025 18:12:34.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [A Seedy Place]
+[05Oct2025 18:16:15.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
+[05Oct2025 18:16:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
+[05Oct2025 18:16:15.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
+[05Oct2025 18:16:47.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wlax[/127.153.210.29:52553] logged in with entity id 43951 at (621.2983983894457, 118.0, -377.32241403527365)
+[05Oct2025 18:16:47.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax joined the game
+[05Oct2025 18:16:48.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wlax (20)
+[05Oct2025 18:16:48.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wlax
+[05Oct2025 18:16:52.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 18:16:53.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 18:16:53.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[05Oct2025 18:17:57.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> brooooooooooooo
+[05Oct2025 18:18:06.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> sybau
+[05Oct2025 18:18:09.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> Se murio zarek?
+[05Oct2025 18:18:13.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> bro u sybau
+[05Oct2025 18:18:31.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ethan bro hay un mod de algodon
+[05Oct2025 18:18:35.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> yo solo digo
+[05Oct2025 18:18:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> para que lo sepas
+[05Oct2025 18:18:45.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> apoco
+[05Oct2025 18:21:11.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [The Andesite Age]
+[05Oct2025 18:27:51.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
+[05Oct2025 18:27:51.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
+[05Oct2025 18:27:51.590] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
+[05Oct2025 18:28:07.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wlax[/127.153.210.29:41775] logged in with entity id 48643 at (600.4967787178533, 92.0, -575.9841459789812)
+[05Oct2025 18:28:07.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax joined the game
+[05Oct2025 18:28:08.570] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wlax (20)
+[05Oct2025 18:28:08.571] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wlax
+[05Oct2025 18:28:12.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 18:28:13.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 18:28:13.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[05Oct2025 18:29:30.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Acquire Hardware]
+[05Oct2025 18:31:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Hot Stuff]
+[05Oct2025 18:32:56.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[05Oct2025 18:32:56.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[05Oct2025 18:32:56.241] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[05Oct2025 18:39:28.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Sweet Dreams]
+[05Oct2025 18:40:47.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
+[05Oct2025 18:40:47.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
+[05Oct2025 18:40:47.287] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
+[05Oct2025 18:49:54.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.233.187.33:60423] logged in with entity id 55259 at (-1909.110051859572, 70.0, -1072.2380460222282)
+[05Oct2025 18:49:54.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[05Oct2025 18:49:55.743] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[05Oct2025 18:49:55.744] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[05Oct2025 18:49:59.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[05Oct2025 18:50:00.351] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[05Oct2025 18:50:00.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[05Oct2025 18:50:20.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> emil
+[05Oct2025 18:50:51.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wlax[/127.153.210.29:53871] logged in with entity id 55455 at (632.7141180644312, 89.02442408821369, -584.4236889547158)
+[05Oct2025 18:50:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax joined the game
+[05Oct2025 18:50:52.500] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wlax (20)
+[05Oct2025 18:50:52.501] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wlax
+[05Oct2025 18:51:00.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 18:51:01.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 18:51:01.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[05Oct2025 18:51:21.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [We Need to Go Deeper]
+[05Oct2025 18:51:22.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
+[05Oct2025 18:51:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> q paso zarek
+[05Oct2025 18:52:09.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> donde tu estas?
+[05Oct2025 18:53:07.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> DUERMAN
+[05Oct2025 18:53:10.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> pli
+[05Oct2025 18:53:10.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> zzzzz
+[05Oct2025 18:53:13.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> zzzz
+[05Oct2025 18:54:09.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Diamonds!]
+[05Oct2025 18:54:11.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Ice Bucket Challenge]
+[05Oct2025 18:57:02.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Bonk!]
+[05Oct2025 19:00:26.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
+[05Oct2025 19:00:26.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
+[05Oct2025 19:00:26.938] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
