@@ -535,3 +535,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 19:00:26.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
 [05Oct2025 19:00:26.938] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
 [05Oct2025 19:20:13.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Chest Slayer]
+[05Oct2025 19:34:05.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Glow and Behold!]
+[05Oct2025 19:39:05.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wlax[/127.153.210.29:43123] logged in with entity id 67284 at (728.0420572487749, 92.0, -678.1489460753261)
+[05Oct2025 19:39:05.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax joined the game
+[05Oct2025 19:39:06.465] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wlax (20)
+[05Oct2025 19:39:06.465] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wlax
+[05Oct2025 19:39:14.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 19:39:15.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 19:39:15.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[05Oct2025 19:39:32.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> mondongo
+[05Oct2025 19:39:38.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lolaso
+[05Oct2025 19:46:15.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! -9.953123101708798,-1.252203340253729,-0.7584918689619826
+[05Oct2025 19:46:44.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> duerman
+[05Oct2025 19:46:46.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> zzzzzzzzzz
+[05Oct2025 19:47:36.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Isn't It Iron Pick]
+[05Oct2025 19:50:47.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [The Andesite Age]
+[05Oct2025 19:52:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [What a Deal!]
