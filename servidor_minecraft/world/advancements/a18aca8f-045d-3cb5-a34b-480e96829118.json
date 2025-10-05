@@ -5372,9 +5372,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-10-05 20:20:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cabbage_from_leaves": {
     "criteria": {
       "has_cabbage_leaf": "2025-10-05 20:02:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-10-05 20:13:37 +0000"
     },
     "done": true
   },
@@ -5384,9 +5396,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-05 20:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-10-05 20:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-10-05 20:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-05 20:20:22 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid_campfire": {
+    "criteria": {
+      "has_squid": "2025-10-05 20:21:46 +0000"
     },
     "done": true
   },
@@ -5396,9 +5432,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-05 20:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-10-05 20:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-10-05 20:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-10-05 20:15:04 +0000"
     },
     "done": true
   },
@@ -5408,15 +5462,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-10-05 20:20:22 +0000"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2025-10-05 20:09:04 +0000"
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_squid_smoking": {
+    "criteria": {
+      "has_squid": "2025-10-05 20:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-10-05 20:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-10-05 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/squid_sandwich": {
+    "criteria": {
+      "has_squid": "2025-10-05 20:21:46 +0000"
     },
     "done": true
   },
@@ -5438,9 +5516,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-10-05 20:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-10-05 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/takoyaki": {
+    "criteria": {
+      "has_squid": "2025-10-05 20:21:46 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid": {
+    "criteria": {
+      "has_squid": "2025-10-05 20:21:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-05 20:13:37 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/stuffed_squid": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-05 20:21:46 +0000"
     },
     "done": true
   },

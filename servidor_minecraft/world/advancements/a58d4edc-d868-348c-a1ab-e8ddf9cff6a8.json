@@ -28,6 +28,7 @@
       "minecraft:deep_frozen_ocean": "2025-10-05 00:56:33 +0000",
       "minecraft:windswept_forest": "2025-10-05 00:57:45 +0000",
       "minecraft:ocean": "2025-10-04 23:16:24 +0000",
+      "minecraft:jungle": "2025-10-05 20:52:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-10-05 16:50:11 +0000",
       "minecraft:snowy_beach": "2025-10-05 00:21:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-05 19:43:24 +0000",
@@ -939,7 +940,8 @@
       "mutton": "2025-10-04 23:53:25 +0000",
       "bread": "2025-10-05 18:46:23 +0000",
       "glow_berries": "2025-10-05 00:05:06 +0000",
-      "cod": "2025-10-05 02:03:33 +0000"
+      "cod": "2025-10-05 02:03:33 +0000",
+      "carrot": "2025-10-05 20:46:16 +0000"
     },
     "done": false
   },
@@ -3351,6 +3353,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-10-05 20:52:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-10-05 18:21:01 +0000"
@@ -3453,6 +3461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-10-05 20:54:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-10-05 17:20:22 +0000"
@@ -3534,6 +3548,12 @@
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-10-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-10-05 20:52:51 +0000"
     },
     "done": true
   },
@@ -3723,6 +3743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-10-05 20:54:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_blue_dye": "2025-10-05 20:08:50 +0000"
@@ -3861,6 +3887,12 @@
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-10-05 20:05:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-05 20:54:40 +0000"
     },
     "done": true
   },
@@ -4053,6 +4085,12 @@
   "miners_delight:recipes/food/cave_carrots_from_crate": {
     "criteria": {
       "has_cave_carrot": "2025-10-05 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-10-05 20:52:51 +0000"
     },
     "done": true
   },
@@ -4332,6 +4370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-10-05 20:52:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-10-05 18:18:36 +0000"
@@ -4527,6 +4571,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-10-05 19:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-10-05 20:42:28 +0000"
     },
     "done": true
   },
@@ -4902,6 +4952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-10-05 20:52:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-10-05 18:18:36 +0000"
@@ -5160,6 +5216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-10-05 20:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-10-05 17:20:22 +0000"
@@ -5208,6 +5270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-10-05 20:52:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-10-05 17:13:26 +0000"
@@ -5253,6 +5321,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-10-05 18:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-10-05 20:52:19 +0000"
     },
     "done": true
   },
