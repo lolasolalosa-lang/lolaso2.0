@@ -685,3 +685,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 22:24:37.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of wlax) moved wrongly! 3.137357568127527
 [05Oct2025 22:24:37.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of wlax) moved wrongly! 2.2908900286181506
 [05Oct2025 22:24:37.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of wlax) moved wrongly! 1.6508736110313293
+[05Oct2025 22:29:17.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
+[05Oct2025 22:29:17.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
+[05Oct2025 22:29:17.038] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
+[05Oct2025 22:31:27.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [We Need to Go Deeper]
+[05Oct2025 22:31:29.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 moved too quickly! 3.594717452034729,0.5698121338414097,9.372150037257143
+[05Oct2025 22:31:29.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
+[05Oct2025 22:34:27.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144413, l='ServerLevel[world]', x=1585.93, y=123.00, z=-1994.63] died, message: 'Villager suffocated in a wall'
+[05Oct2025 22:34:31.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144728, l='ServerLevel[world]', x=1537.72, y=98.00, z=-1983.37] died, message: 'Villager suffocated in a wall'
+[05Oct2025 22:35:22.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wlax[/127.153.210.29:47071] logged in with entity id 145464 at (1133.7980029497578, 62.073264324665075, -2392.23736912607)
+[05Oct2025 22:35:22.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax joined the game
+[05Oct2025 22:35:24.048] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wlax (20)
+[05Oct2025 22:35:24.049] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wlax
+[05Oct2025 22:35:31.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 22:35:32.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 22:35:32.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[05Oct2025 22:36:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Crops of the Wild]
+[05Oct2025 22:36:18.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> ethan
+[05Oct2025 22:36:20.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> vc
+[05Oct2025 22:36:21.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> ?
+[05Oct2025 22:36:22.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> a
+[05Oct2025 22:36:24.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> voy
+[05Oct2025 22:38:06.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[05Oct2025 22:38:06.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[05Oct2025 22:38:06.349] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[05Oct2025 22:38:12.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.251.4.62:33729] logged in with entity id 147555 at (1621.56980795089, 120.0, -1972.4135749791085)
+[05Oct2025 22:38:12.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[05Oct2025 22:38:12.889] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[05Oct2025 22:38:12.892] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[05Oct2025 22:38:14.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[05Oct2025 22:38:15.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[05Oct2025 22:38:15.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[05Oct2025 22:42:31.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Ice Bucket Challenge]
