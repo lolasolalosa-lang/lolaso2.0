@@ -3499,6 +3499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-10-05 19:02:44 +0000"
@@ -3514,6 +3520,12 @@
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-10-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -3631,6 +3643,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2025-10-05 17:15:49 +0000"
@@ -3697,9 +3715,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-10-05 18:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -3754,6 +3784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2025-10-05 18:03:30 +0000"
@@ -3769,6 +3805,12 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-05 18:18:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -3877,6 +3919,12 @@
   "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-10-05 18:18:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4024,6 +4072,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/cooked_arthropod": {
     "criteria": {
       "has_arthropod": "2025-10-05 18:14:29 +0000"
@@ -4045,6 +4099,12 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2025-10-05 18:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4093,6 +4153,12 @@
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-10-05 18:21:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4246,6 +4312,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-10-05 18:18:36 +0000"
@@ -4255,6 +4327,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-05 18:18:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4273,6 +4351,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-05 18:18:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4321,6 +4405,12 @@
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-10-05 18:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4377,6 +4467,24 @@
       "1": "2025-10-05 19:03:19 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
@@ -4450,6 +4558,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-10-05 18:36:35 +0000"
@@ -4459,6 +4573,12 @@
   "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-10-05 18:18:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4477,6 +4597,12 @@
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-10-05 18:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4567,6 +4693,12 @@
   "create:recipes/decorations/andesite_table_cloth_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-10-05 18:21:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4690,6 +4822,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-10-05 18:36:35 +0000"
@@ -4705,6 +4843,12 @@
   "mynethersdelight:recipes/misc/crafting/golden_egg": {
     "criteria": {
       "has_gold_ingot": "2025-10-05 19:02:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4726,9 +4870,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-10-05 17:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4747,6 +4903,12 @@
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-10-05 18:21:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4825,6 +4987,12 @@
   "create:recipes/misc/crafting/logistics/item_hatch": {
     "criteria": {
       "has_item": "2025-10-05 18:21:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
@@ -4912,6 +5080,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/vegan_steak_and_potatoes": {
     "criteria": {
       "has_cave_carrot": "2025-10-05 19:13:44 +0000"
@@ -4942,9 +5116,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-10-05 19:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-10-05 19:22:33 +0000"
     },
     "done": true
   },
