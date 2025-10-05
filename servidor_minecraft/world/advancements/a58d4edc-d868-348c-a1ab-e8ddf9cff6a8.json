@@ -4244,6 +4244,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-10-05 21:30:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-10-05 18:21:01 +0000"
@@ -4403,6 +4409,12 @@
   "farmersdelight:main/place_skillet": {
     "criteria": {
       "skillet": "2025-10-05 17:09:54 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-10-05 21:30:16 +0000"
     },
     "done": true
   },

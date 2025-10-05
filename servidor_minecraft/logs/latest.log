@@ -629,3 +629,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 21:05:19.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Getting an Upgrade]
 [05Oct2025 21:12:53.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
 [05Oct2025 21:12:58.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> e?
+[05Oct2025 21:14:51.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[05Oct2025 21:14:51.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[05Oct2025 21:14:51.045] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[05Oct2025 21:15:42.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.251.4.62:46279] logged in with entity id 108363 at (654.3437634117641, 91.0, -365.6635229890207)
+[05Oct2025 21:15:42.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[05Oct2025 21:15:42.749] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[05Oct2025 21:15:42.749] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[05Oct2025 21:15:44.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[05Oct2025 21:15:45.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[05Oct2025 21:15:45.581] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[05Oct2025 21:16:03.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/85833, l='ServerLevel[world]', x=743.50, y=104.00, z=-709.70] died, message: 'Fisherman was slain by Zombie'
+[05Oct2025 21:16:47.132] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/85863, l='ServerLevel[world]', x=743.69, y=100.00, z=-710.25] died, message: 'Butcher was slain by Zombie'
+[05Oct2025 21:22:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Monster Hunter]
+[05Oct2025 21:26:41.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Sweet Dreams]
+[05Oct2025 21:28:12.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
+[05Oct2025 21:28:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
+[05Oct2025 21:28:12.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax

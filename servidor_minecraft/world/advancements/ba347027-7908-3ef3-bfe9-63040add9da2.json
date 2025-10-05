@@ -9,11 +9,13 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-10-05 17:53:47 +0000",
       "minecraft:cherry_grove": "2025-10-05 18:13:32 +0000",
+      "minecraft:sunflower_plains": "2025-10-05 21:24:10 +0000",
       "minecraft:beach": "2025-10-05 17:37:45 +0000",
       "minecraft:dark_forest": "2025-10-05 17:34:54 +0000",
       "minecraft:river": "2025-10-05 18:10:28 +0000",
       "minecraft:dripstone_caves": "2025-10-05 18:24:12 +0000",
       "minecraft:ocean": "2025-10-05 17:53:23 +0000",
+      "minecraft:meadow": "2025-10-05 21:25:31 +0000",
       "minecraft:plains": "2025-10-05 18:10:31 +0000"
     },
     "done": false
@@ -681,6 +683,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-10-05 18:14:09 +0000",
+      "minecraft:spider": "2025-10-05 21:14:35 +0000",
       "minecraft:zombie": "2025-10-05 17:59:18 +0000"
     },
     "done": false
