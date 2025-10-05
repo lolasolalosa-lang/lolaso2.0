@@ -723,3 +723,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 22:47:11.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Beginner Breadsmithing]
 [05Oct2025 22:50:56.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Crops of the Wild]
 [05Oct2025 22:54:39.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/147655, l='ServerLevel[world]', x=1659.96, y=97.00, z=-2004.94] died, message: 'Villager was slain by Zombie'
+[05Oct2025 23:06:09.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/147717, l='ServerLevel[world]', x=1648.70, y=118.00, z=-1966.30] died, message: 'Villager was slain by Zombie'
+[05Oct2025 23:06:24.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/147711, l='ServerLevel[world]', x=1648.70, y=118.00, z=-1966.30] died, message: 'Nitwit was slain by Zombie'
+[05Oct2025 23:06:42.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 was kicked for floating too long!
+[05Oct2025 23:06:42.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Flying is not enabled on this server
+[05Oct2025 23:06:42.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[05Oct2025 23:06:42.643] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[05Oct2025 23:07:00.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.251.4.62:44009] logged in with entity id 160481 at (1669.70716535669, 127.17675927506424, -1977.9364919776901)
+[05Oct2025 23:07:00.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[05Oct2025 23:07:00.242] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[05Oct2025 23:07:00.242] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[05Oct2025 23:07:05.882] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[05Oct2025 23:07:06.888] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[05Oct2025 23:07:06.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[05Oct2025 23:09:04.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/147698, l='ServerLevel[world]', x=1668.47, y=116.00, z=-1949.39] died, message: 'Nitwit was slain by Zombie'
+[05Oct2025 23:09:25.190] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/147693, l='ServerLevel[world]', x=1671.52, y=116.00, z=-1954.74] died, message: 'Nitwit was slain by Zombie'
+[05Oct2025 23:11:22.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
+[05Oct2025 23:11:22.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
+[05Oct2025 23:11:22.047] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
+[05Oct2025 23:12:35.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[05Oct2025 23:12:35.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[05Oct2025 23:12:35.342] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[05Oct2025 23:13:30.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-476, y=60, z=-44} BlockPos{x=-511, y=59, z=-60}
