@@ -3541,6 +3541,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/vegan_hamburger": {
+    "criteria": {
+      "has_cave_carrot": "2025-10-05 19:13:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-10-05 18:21:01 +0000"
@@ -3790,6 +3796,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_cave_carrot_campfire": {
+    "criteria": {
+      "has_cave_carrot": "2025-10-05 19:13:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-10-05 17:20:22 +0000"
@@ -3910,6 +3922,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_cave_carrot": {
+    "criteria": {
+      "has_cave_carrot": "2025-10-05 19:13:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
     "criteria": {
       "has_item": "2025-10-05 18:39:07 +0000"
@@ -3931,6 +3949,12 @@
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2025-10-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cave_carrots_from_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-10-05 19:13:44 +0000"
     },
     "done": true
   },
@@ -4093,6 +4117,12 @@
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2025-10-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_wrap": {
+    "criteria": {
+      "has_cave_carrot": "2025-10-05 19:13:44 +0000"
     },
     "done": true
   },
@@ -4363,6 +4393,12 @@
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-10-05 17:20:22 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_smoking": {
+    "criteria": {
+      "has_cave_carrot": "2025-10-05 19:13:44 +0000"
     },
     "done": true
   },
@@ -4726,6 +4762,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-10-05 19:13:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-05 18:18:36 +0000"
@@ -4834,6 +4876,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/improvised_barbecue_stick": {
+    "criteria": {
+      "has_cave_carrot": "2025-10-05 19:13:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-10-05 18:20:07 +0000"
@@ -4861,6 +4909,12 @@
   "miners_delight:recipes/cooking/glow_ink_pasta": {
     "criteria": {
       "has_glow_ink_sac": "2025-10-05 18:45:22 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_steak_and_potatoes": {
+    "criteria": {
+      "has_cave_carrot": "2025-10-05 19:13:44 +0000"
     },
     "done": true
   },

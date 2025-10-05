@@ -8557,3 +8557,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 19:06:34.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Oct2025 19:11:34.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Oct2025 19:11:34.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 19:16:34.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 19:16:34.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 19:20:13.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Chest Slayer]
+[05Oct2025 19:21:34.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 19:21:34.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
