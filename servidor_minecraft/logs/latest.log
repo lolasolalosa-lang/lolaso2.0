@@ -646,3 +646,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 21:28:12.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
 [05Oct2025 21:28:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
 [05Oct2025 21:28:12.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
+[05Oct2025 21:37:45.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wlax[/127.153.210.29:53879] logged in with entity id 117599 at (695.5690671445648, 91.0, -645.46559416132)
+[05Oct2025 21:37:45.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax joined the game
+[05Oct2025 21:37:46.587] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wlax (20)
+[05Oct2025 21:37:46.587] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wlax
+[05Oct2025 21:37:54.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 21:37:55.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 21:37:55.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[05Oct2025 21:41:24.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Suit Up]
+[05Oct2025 21:41:40.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Isn't It Iron Pick]
+[05Oct2025 21:45:14.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [The Cutest Predator]
+[05Oct2025 21:48:53.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Hunt and Gather]
+[05Oct2025 21:52:09.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Hot Stuff]
+[05Oct2025 21:52:09.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [A Matter of Loaf and Bread]
+[05Oct2025 21:54:49.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Diamonds!]
+[05Oct2025 21:54:53.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Acquire Hardware]
+[05Oct2025 21:56:25.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Ice Bucket Challenge]
+[05Oct2025 21:56:44.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> ethan
+[05Oct2025 21:56:46.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> ???
+[05Oct2025 21:56:50.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> ayudame a desvalijar la base
+[05Oct2025 21:59:41.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [The Cutest Predator]
+[05Oct2025 22:03:00.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> zzzzzzzzzzzzzz
+[05Oct2025 22:03:20.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> emil come mucho pene
+[05Oct2025 22:06:04.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=107, z=-686} BlockPos{x=774, y=106, z=-686}
+[05Oct2025 22:11:07.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/85864, l='ServerLevel[world]', x=748.51, y=98.00, z=-702.52] died, message: 'Butcher burned to death'
+[05Oct2025 22:13:16.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/85842, l='ServerLevel[world]', x=735.80, y=97.00, z=-711.75] died, message: 'Butcher burned to death'
+[05Oct2025 22:13:21.031] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/85853, l='ServerLevel[world]', x=701.49, y=90.00, z=-678.21] died, message: 'Toolsmith burned to death'
+[05Oct2025 22:13:52.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/85836, l='ServerLevel[world]', x=727.50, y=100.06, z=-677.80] died, message: 'Fletcher went up in flames'
+[05Oct2025 22:17:57.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> mama guevo
+[05Oct2025 22:18:04.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> Gay
+[05Oct2025 22:18:33.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> gey
+[05Oct2025 22:18:45.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[05Oct2025 22:24:27.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anubis_11) moved too quickly! 10.45232308653533,0.0,-2.8924392009957955
+[05Oct2025 22:24:37.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of wlax) moved wrongly! 0.42451832463939354
+[05Oct2025 22:24:37.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anubis_11) moved wrongly! 0.4365248069300378
+[05Oct2025 22:24:37.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anubis_11) moved wrongly! 1.1507478034294536
+[05Oct2025 22:24:37.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of wlax) moved wrongly! 1.1047497595097866
+[05Oct2025 22:24:37.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of wlax) moved wrongly! 3.137357568127527
+[05Oct2025 22:24:37.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of wlax) moved wrongly! 2.2908900286181506
+[05Oct2025 22:24:37.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of wlax) moved wrongly! 1.6508736110313293
