@@ -717,3 +717,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 22:38:15.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
 [05Oct2025 22:38:15.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
 [05Oct2025 22:42:31.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Ice Bucket Challenge]
+[05Oct2025 22:45:15.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Hunt and Gather]
+[05Oct2025 22:45:38.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Amateur Archaeologist]
+[05Oct2025 22:45:45.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Beginner Breadsmithing]
+[05Oct2025 22:47:11.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Beginner Breadsmithing]
+[05Oct2025 22:50:56.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Crops of the Wild]
+[05Oct2025 22:54:39.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/147655, l='ServerLevel[world]', x=1659.96, y=97.00, z=-2004.94] died, message: 'Villager was slain by Zombie'

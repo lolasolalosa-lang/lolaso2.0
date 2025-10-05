@@ -10537,3 +10537,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 22:41:37.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Oct2025 22:41:37.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Oct2025 22:42:31.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Ice Bucket Challenge]
+[05Oct2025 22:45:15.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Hunt and Gather]
+[05Oct2025 22:45:38.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Amateur Archaeologist]
+[05Oct2025 22:45:45.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Beginner Breadsmithing]
+[05Oct2025 22:46:37.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 22:46:37.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 22:47:11.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Beginner Breadsmithing]
+[05Oct2025 22:50:56.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Crops of the Wild]
+[05Oct2025 22:51:37.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 22:51:37.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 22:54:39.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/147655, l='ServerLevel[world]', x=1659.96, y=97.00, z=-2004.94] died, message: 'Villager was slain by Zombie'
+[05Oct2025 22:56:37.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 22:56:37.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 23:01:37.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 23:01:37.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
