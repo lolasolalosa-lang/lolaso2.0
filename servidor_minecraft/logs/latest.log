@@ -745,3 +745,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 23:12:35.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
 [05Oct2025 23:12:35.342] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
 [05Oct2025 23:13:30.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-476, y=60, z=-44} BlockPos{x=-511, y=59, z=-60}
+[05Oct2025 23:41:06.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wlax[/127.153.210.29:56071] logged in with entity id 173425 at (1728.9894736020015, 119.0, -1994.0503073794039)
+[05Oct2025 23:41:06.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax joined the game
+[05Oct2025 23:41:07.758] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wlax (20)
+[05Oct2025 23:41:07.758] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wlax
+[05Oct2025 23:41:15.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> duerme bro
+[05Oct2025 23:41:15.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 23:41:16.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
+[05Oct2025 23:41:16.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[05Oct2025 23:41:36.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> bueno me voy a cenar bye
+[05Oct2025 23:41:39.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> bruh
+[05Oct2025 23:41:43.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> regreso en un rato
+[05Oct2025 23:41:49.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> va
+[05Oct2025 23:41:50.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[05Oct2025 23:41:50.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[05Oct2025 23:41:50.191] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[05Oct2025 23:41:50.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> gay
+[05Oct2025 23:48:10.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.233.187.33:44773] logged in with entity id 174911 at (-1904.3232504763487, 70.0, -1081.448840520622)
+[05Oct2025 23:48:10.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[05Oct2025 23:48:11.553] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[05Oct2025 23:48:11.553] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[05Oct2025 23:48:15.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[05Oct2025 23:48:15.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> ZAREEEEEKKK
+[05Oct2025 23:48:16.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[05Oct2025 23:48:16.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[05Oct2025 23:48:28.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> vro?
+[05Oct2025 23:48:39.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> y emil?
+[05Oct2025 23:48:43.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> afk
+[05Oct2025 23:48:51.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> no esta en el sv
+[05Oct2025 23:48:58.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> por eso
+[05Oct2025 23:49:00.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> se fue a comer
+[05Oct2025 23:49:01.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> afk
+[05Oct2025 23:49:08.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok
+[05Oct2025 23:49:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> te iras?
+[05Oct2025 23:49:25.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> nah
+[05Oct2025 23:50:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> dawg dont die
+[05Oct2025 23:50:33.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [We Need to Go Deeper]
+[05Oct2025 23:50:36.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> lamo
+[05Oct2025 23:50:38.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> lmao*
+[05Oct2025 23:50:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> estoy trapped
+[05Oct2025 23:50:58.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> bruh
+[05Oct2025 23:51:21.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> consegui salir
+[05Oct2025 23:51:24.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> noice
+[05Oct2025 23:51:29.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> tenia un mechero por suerte
+[05Oct2025 23:51:39.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> i was abt to ask for nether cord
+[05Oct2025 23:51:46.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> so i could a portal rq
+[05Oct2025 23:51:52.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> lol
+[05Oct2025 23:53:35.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> ro
+[05Oct2025 23:53:38.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> bro
+[05Oct2025 23:53:39.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> dime
+[05Oct2025 23:53:40.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> can you sleep?
+[05Oct2025 23:53:45.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> y
+[05Oct2025 23:53:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> pls
+[05Oct2025 23:53:48.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> ty
+[05Oct2025 23:55:22.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> so bro you playing silksong one of these days?
+[05Oct2025 23:55:57.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ive got to finish Hk first bro
+[05Oct2025 23:56:12.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> you still haven't? damn

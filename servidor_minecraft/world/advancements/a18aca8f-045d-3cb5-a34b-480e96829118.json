@@ -5360,6 +5360,66 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2025-10-05 20:02:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-05 20:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-10-05 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-10-05 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-10-05 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-10-05 20:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-10-05 20:02:29 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-05 20:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-10-05 20:02:29 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-10-05 20:06:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_chute": {
     "criteria": {
       "has_item": "2025-10-05 20:06:39 +0000"
@@ -5372,15 +5432,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
-      "has_blue_dye": "2025-10-05 20:20:22 +0000"
+      "has_item": "2025-10-05 20:08:26 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cabbage_from_leaves": {
+  "create:water_wheel": {
     "criteria": {
-      "has_cabbage_leaf": "2025-10-05 20:02:25 +0000"
+      "0": "2025-10-05 20:09:04 +0000"
     },
     "done": true
   },
@@ -5390,9 +5450,21 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
-      "has_item": "2025-10-05 20:08:26 +0000"
+      "has_item": "2025-10-05 20:13:37 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-10-05 20:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-10-05 20:20:22 +0000"
     },
     "done": true
   },
@@ -5408,27 +5480,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-10-05 20:02:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-10-05 20:20:22 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/baked_squid_campfire": {
-    "criteria": {
-      "has_squid": "2025-10-05 20:21:46 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-10-05 20:06:24 +0000"
     },
     "done": true
   },
@@ -5438,27 +5492,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-10-05 20:02:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-10-05 20:20:22 +0000"
-    },
-    "done": true
-  },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2025-10-05 20:15:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-10-05 20:02:28 +0000"
     },
     "done": true
   },
@@ -5468,51 +5504,9 @@
     },
     "done": true
   },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2025-10-05 20:09:04 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/baked_squid_smoking": {
-    "criteria": {
-      "has_squid": "2025-10-05 20:21:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-10-05 20:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-10-05 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/squid_sandwich": {
-    "criteria": {
-      "has_squid": "2025-10-05 20:21:46 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-10-05 20:02:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-10-05 20:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-10-05 20:02:29 +0000"
     },
     "done": true
   },
@@ -5522,9 +5516,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "miners_delight:recipes/food/baked_squid_campfire": {
     "criteria": {
-      "has_potato": "2025-10-05 20:02:28 +0000"
+      "has_squid": "2025-10-05 20:21:46 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid_smoking": {
+    "criteria": {
+      "has_squid": "2025-10-05 20:21:46 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/squid_sandwich": {
+    "criteria": {
+      "has_squid": "2025-10-05 20:21:46 +0000"
     },
     "done": true
   },
@@ -5540,15 +5546,33 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
-    "criteria": {
-      "has_item": "2025-10-05 20:13:37 +0000"
-    },
-    "done": true
-  },
   "miners_delight:recipes/cooking/stuffed_squid": {
     "criteria": {
       "has_any_ingredient": "2025-10-05 20:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-10-05 23:50:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-10-05 23:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-10-05 23:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-10-05 23:50:33 +0000"
     },
     "done": true
   },
