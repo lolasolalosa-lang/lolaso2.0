@@ -551,3 +551,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Oct2025 19:47:36.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Isn't It Iron Pick]
 [05Oct2025 19:50:47.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [The Andesite Age]
 [05Oct2025 19:52:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [What a Deal!]
+[05Oct2025 19:55:25.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Hot Stuff]
+[05Oct2025 19:59:21.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[05Oct2025 19:59:21.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[05Oct2025 19:59:21.538] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[05Oct2025 20:00:51.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d53d163[id=<null>,name=megatuber06,properties={},legacy=false] (/127.233.187.33:48519) lost connection: Disconnected
+[05Oct2025 20:00:57.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.233.187.33:39827] logged in with entity id 75680 at (-1916.7717800474256, 73.0, -1072.534040879153)
+[05Oct2025 20:00:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[05Oct2025 20:00:57.490] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[05Oct2025 20:00:57.490] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[05Oct2025 20:01:01.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[05Oct2025 20:01:02.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[05Oct2025 20:01:02.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[05Oct2025 20:03:48.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax has made the advancement [Take Aim]
+[05Oct2025 20:06:24.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Bonk!]
+[05Oct2025 20:09:37.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
+[05Oct2025 20:09:37.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
+[05Oct2025 20:09:37.437] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
