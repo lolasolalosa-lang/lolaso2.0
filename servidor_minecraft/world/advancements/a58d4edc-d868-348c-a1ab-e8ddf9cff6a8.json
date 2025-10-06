@@ -5992,6 +5992,66 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-10-06 00:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-10-06 00:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-10-06 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-10-06 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-10-06 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-10-06 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-06 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-06 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-06 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-10-06 00:45:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-06 00:48:31 +0000"
@@ -6022,18 +6082,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-10-06 00:36:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
-    "criteria": {
-      "has_item": "2025-10-06 00:57:08 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-06 00:48:31 +0000"
@@ -6049,12 +6097,6 @@
   "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-06 00:48:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-10-06 00:35:48 +0000"
     },
     "done": true
   },
@@ -6088,24 +6130,6 @@
     },
     "done": true
   },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-10-06 00:45:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-10-06 00:28:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-10-06 00:35:48 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-06 00:48:31 +0000"
@@ -6121,12 +6145,6 @@
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-06 00:48:31 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
-    "criteria": {
-      "has_blaze_rod": "2025-10-06 00:36:01 +0000"
     },
     "done": true
   },
@@ -6148,27 +6166,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
     "criteria": {
-      "has_basalt": "2025-10-06 00:35:48 +0000"
+      "has_item": "2025-10-06 00:57:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_blaze_rod": "2025-10-06 00:36:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-10-06 00:36:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_glazed_ham_block": {
-    "criteria": {
-      "has_smoked_ham": "2025-10-06 00:15:22 +0000"
+      "has_raw_iron_block": "2025-10-06 01:17:19 +0000"
     },
     "done": true
   },
