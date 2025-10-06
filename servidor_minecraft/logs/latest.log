@@ -87,3 +87,22 @@
 [06Oct2025 00:36:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Into Fire]
 [06Oct2025 00:36:39.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> la espada lo unico que me importaba
 [06Oct2025 00:36:55.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> r¿traelo todo
+[06Oct2025 00:38:41.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> diddy
+[06Oct2025 00:39:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> la mochila?
+[06Oct2025 00:40:17.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> al menos diganme que quedo bien la moto
+[06Oct2025 00:40:50.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> te oigo
+[06Oct2025 00:41:07.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> nel maribel
+[06Oct2025 00:41:15.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> pero hay muchas cosas que no me lleve
+[06Oct2025 00:41:18.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> por suerte
+[06Oct2025 00:41:36.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> me voy brosky
+[06Oct2025 00:41:43.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[06Oct2025 00:41:43.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[06Oct2025 00:41:43.229] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[06Oct2025 00:42:00.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wlax[/127.153.210.29:36369] logged in with entity id 190922 at (1580.4970176926204, 76.0, -2056.9106593981874)
+[06Oct2025 00:42:00.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax joined the game
+[06Oct2025 00:42:01.397] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wlax (20)
+[06Oct2025 00:42:01.397] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wlax
+[06Oct2025 00:42:10.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
+[06Oct2025 00:42:11.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
+[06Oct2025 00:42:11.029] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[06Oct2025 00:50:34.787] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/191027, l='ServerLevel[world]', x=1689.10, y=99.00, z=-2014.30] died, message: 'Toolsmith was slain by Zombie'
