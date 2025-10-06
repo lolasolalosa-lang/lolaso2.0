@@ -3686,6 +3686,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-10-06 00:07:42 +0000",
+      "sweet_berries": "2025-10-06 00:15:52 +0000",
       "tomato": "2025-10-05 18:12:48 +0000",
       "sugar_cane": "2025-10-05 22:39:56 +0000",
       "potato": "2025-10-05 18:13:27 +0000",
@@ -5984,6 +5986,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-10-05 23:34:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-10-06 00:15:22 +0000"
     },
     "done": true
   },
