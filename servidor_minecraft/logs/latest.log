@@ -446,3 +446,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Oct2025 02:23:45.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
 [06Oct2025 02:23:46.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
 [06Oct2025 02:23:46.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[06Oct2025 02:37:24.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
+[06Oct2025 02:37:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
+[06Oct2025 02:37:24.665] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
+[06Oct2025 02:37:49.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[06Oct2025 02:37:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[06Oct2025 02:37:49.201] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[06Oct2025 02:38:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Oct2025 02:38:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Oct2025 02:38:08.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Oct2025 02:38:08.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Oct2025 02:38:08.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Oct2025 02:38:08.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Oct2025 02:38:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Oct2025 02:38:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Oct2025 02:38:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Oct2025 02:38:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
