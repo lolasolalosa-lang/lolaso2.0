@@ -433,3 +433,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Oct2025 02:11:48.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
 [06Oct2025 02:11:49.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
 [06Oct2025 02:11:49.632] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[06Oct2025 02:19:17.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> emil
+[06Oct2025 02:19:19.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wlax> estoy aqui
+[06Oct2025 02:19:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> no se te escucha
+[06Oct2025 02:22:48.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wlax lost connection: Disconnected
+[06Oct2025 02:22:48.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax left the game
+[06Oct2025 02:22:48.708] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wlax
+[06Oct2025 02:23:41.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wlax[/127.153.210.29:39687] logged in with entity id 21123 at (1624.699999988079, 64.0, -2166.988094157396)
+[06Oct2025 02:23:41.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wlax joined the game
+[06Oct2025 02:23:41.851] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wlax (20)
+[06Oct2025 02:23:41.852] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wlax
+[06Oct2025 02:23:45.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
+[06Oct2025 02:23:46.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
+[06Oct2025 02:23:46.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
