@@ -933,6 +933,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-10-05 18:51:08 +0000",
+      "honey_bottle": "2025-10-06 00:18:58 +0000",
       "sweet_berries": "2025-10-05 22:02:55 +0000",
       "cooked_beef": "2025-10-05 23:19:42 +0000",
       "beef": "2025-10-04 23:28:09 +0000",
@@ -5679,7 +5680,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-10-05 22:31:29 +0000",
-      "minecraft:soul_sand_valley": "2025-10-05 22:50:30 +0000"
+      "minecraft:soul_sand_valley": "2025-10-05 22:50:30 +0000",
+      "minecraft:basalt_deltas": "2025-10-06 00:27:45 +0000"
     },
     "done": false
   },
@@ -5986,6 +5988,54 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-10-05 23:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-10-06 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-10-06 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-10-06 00:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-10-06 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-06 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-10-06 00:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-06 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-06 00:36:01 +0000"
     },
     "done": true
   },

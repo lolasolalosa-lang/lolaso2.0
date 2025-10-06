@@ -695,6 +695,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-10-05 18:14:09 +0000",
       "minecraft:spider": "2025-10-05 21:14:35 +0000",
+      "minecraft:creeper": "2025-10-06 00:23:34 +0000",
       "minecraft:zombie": "2025-10-05 17:59:18 +0000"
     },
     "done": false
@@ -3770,6 +3771,18 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-10-05 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-10-06 00:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-10-06 00:29:48 +0000"
     },
     "done": true
   },
