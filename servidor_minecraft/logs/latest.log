@@ -398,3 +398,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Oct2025 01:14:06.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba347027-7908-3ef3-bfe9-63040add9da2
 [06Oct2025 01:14:07.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba347027-7908-3ef3-bfe9-63040add9da2
 [06Oct2025 01:14:07.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wlax (ba347027-7908-3ef3-bfe9-63040add9da2) successfully connected to voice chat
+[06Oct2025 01:28:35.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [The Brass Age]
