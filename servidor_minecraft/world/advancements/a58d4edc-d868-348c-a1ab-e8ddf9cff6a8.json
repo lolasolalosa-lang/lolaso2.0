@@ -157,6 +157,7 @@
       "minecraft:magma_cube": "2025-10-05 22:55:29 +0000",
       "minecraft:spider": "2025-10-05 01:56:07 +0000",
       "minecraft:creeper": "2025-10-05 00:10:45 +0000",
+      "minecraft:witch": "2025-10-06 01:34:11 +0000",
       "minecraft:zombie": "2025-10-04 23:32:39 +0000",
       "minecraft:drowned": "2025-10-04 23:40:55 +0000"
     },
@@ -6223,6 +6224,12 @@
   "create:recipes/misc/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2025-10-06 01:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-10-06 01:32:54 +0000"
     },
     "done": true
   },
