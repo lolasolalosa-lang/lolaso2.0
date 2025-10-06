@@ -6239,6 +6239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-10-06 01:46:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2025-10-06 01:28:50 +0000"
@@ -6266,6 +6272,12 @@
   "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2025-10-06 01:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-10-06 01:46:00 +0000"
     },
     "done": true
   },
@@ -6323,6 +6335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-10-06 01:46:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2025-10-06 01:30:46 +0000"
@@ -6356,6 +6374,12 @@
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-10-06 01:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-10-06 01:46:00 +0000"
     },
     "done": true
   },
