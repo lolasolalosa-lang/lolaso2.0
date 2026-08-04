@@ -1,0 +1,48 @@
+{
+	"title": "questlog.quest.ingot.title",
+	"description": "questlog.quest.ingot.description",
+  "translatable": true,
+	"icon": {
+		"item": "create_eternal_journey:pure_ingot_of_magic"
+	},
+	"requirements": [
+		{
+      "type": "questlog:or",
+      "objectives": [
+        {
+          "type": "questlog:item_obtain",
+          "item": "create_eternal_journey:magic_dust"
+        },
+        {
+          "type": "questlog:quest_complete",
+		  "quest": "questlog:main_quests/magic"
+        }
+      ]
+    }
+	],
+	"chapter": "eternal_journey",
+	"sort_order": "4",
+	"triggers": [],
+	"objectives": [
+		{
+      "type": "questlog:item_obtain",
+      "icon": "create_eternal_journey:pure_ingot_of_magic",
+      "item": "create_eternal_journey:pure_ingot_of_magic"
+    }
+	],
+	"rewards": [
+		{
+      "type": "questlog:item",
+      "icon": "create_enchantment_industry:hyper_experience_bottle",
+      "item": "create_enchantment_industry:hyper_experience_bottle",
+      "count": 5,
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+	{
+      "type": "questlog:item",
+      "icon": "unusualend:dragling_plush",
+      "item": "unusualend:dragling_plush",
+      "claim_sound": "minecraft:entity.item.pickup"
+    }
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"title": "questlog.quest.crushing.title",
+	"description": "questlog.quest.crushing.description",
+  "translatable": true,
+	"icon": {
+		"item": "create:crushing_wheel"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "13",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create:crushing_wheel",
+      "required_amount": 2,
+      "item": "create:crushing_wheel"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 15
+    }
+	]
+}

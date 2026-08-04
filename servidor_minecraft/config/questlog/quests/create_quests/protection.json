@@ -1,0 +1,48 @@
+{
+	"title": "questlog.quest.protection.title",
+	"description": "questlog.quest.protection.description",
+  "translatable": true,
+	"icon": {
+		"item": "protection_pixel:falconnest_chestplate"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "20",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "protection_pixel:armorloadplatform",
+      "item": "protection_pixel:armorloadplatform"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "protection_pixel:powerengine",
+      "item": "protection_pixel:powerengine"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "protection_pixel:socks_boots",
+      "item": "protection_pixel:socks_boots"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "protection_pixel:alloyarmorplate",
+      "item": "protection_pixel:alloyarmorplate",
+      "count": 2,
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+		{
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 20
+    }
+	]
+}

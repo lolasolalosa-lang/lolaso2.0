@@ -1,0 +1,52 @@
+{
+	"title": "questlog.quest.bosses.title",
+	"description": "questlog.quest.bosses.description",
+  "translatable": true,
+	"icon": {
+		"item": "cataclysm:the_incinerator"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+  "chapter": "eternal_journey",
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "translatable": true,
+      "name": "questlog.quest.bosses.objective1",
+      "icon": "cataclysm:monstrous_eye",
+      "item": "#kubejs:cataclysm_eyes"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "translatable": true,
+      "name": "questlog.quest.bosses.objective2",
+      "icon": "legendary_monsters:eye_of_ghost",
+      "item": "#kubejs:bossesrise_eyes"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "translatable": true,
+      "name": "questlog.quest.bosses.objective3",
+      "icon": "cataclysm_rise:knight_eye",
+      "item": "#kubejs:legendarymonsters_eyes"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "cataclysm:sturdy_boots",
+      "item": "cataclysm:sturdy_boots",
+      "count": 1,
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 50
+    }
+  ]
+}

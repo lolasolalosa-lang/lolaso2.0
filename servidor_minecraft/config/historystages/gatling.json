@@ -1,0 +1,18 @@
+{
+  "display_name": "Gatling",
+  "research_time": 20,
+  "items": [
+    "cgs:gatling"
+  ],
+  "tags": [],
+  "mods": [],
+  "recipes": [
+    "cgs:mechanical_crafting/gatling"
+  ],
+  "dimensions": [],
+  "entities": {
+    "spawnlock": [],
+    "attacklock": [],
+    "modLinked": []
+  }
+}

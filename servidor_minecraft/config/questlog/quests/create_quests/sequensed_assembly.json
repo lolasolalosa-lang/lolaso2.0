@@ -1,0 +1,32 @@
+{
+	"title": "questlog.quest.activators.title",
+	"description": "questlog.quest.activators.description",
+  "translatable": true,
+	"icon": {
+		"item": "create:deployer"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "6",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/brass_n_heating"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create:deployer",
+      "required_amount": 1,
+      "item": "create:deployer"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"title": "О чем глава?",
+	"description": "Данная глава создана для тех, кому вечно нужен челлендж для игры. \n\nПо сути она представляет из себя сборник квестов разного уровня духоты, дабы вам вегда было чем заняться. Кстати щедрых наград не ждите, важных для прогрессии предметов я вставлять не хотел, а ничего дороже не нашлось.",
+	"icon": {
+		"item": "unusualend:spirit_grim_helmet"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+  "chapter": "so_boring",
+  "objectives": [
+    {
+			"type": "questlog:read"
+		}
+  ],
+	"rewards": [
+  ]
+}

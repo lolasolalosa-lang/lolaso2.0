@@ -1,0 +1,35 @@
+{
+	"title": "questlog.quest.diet.title",
+	"description": "questlog.quest.diet.description",
+	"translatable": true,
+	"icon": {
+		"item": "minecraft:bread"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+	"chapter": "questlog:main",
+	"triggers": [],
+	"objectives": [
+		{
+			"type": "questlog:read"
+		}
+	],
+	"rewards": [
+		{
+      "type": "questlog:item",
+      "item": "solclassic:food_history_book",
+	  "icon": "solclassic:food_history_book"
+    },
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 10
+    }
+  ],
+   "toast_on_unlock": false,
+  "toast_on_complete": false
+}

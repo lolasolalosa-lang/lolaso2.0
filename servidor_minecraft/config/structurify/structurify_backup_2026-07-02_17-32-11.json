@@ -1,0 +1,813 @@
+{
+  "config_version": "2.0.25",
+  "config_datetime": "2026-06-27_10-39-08",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": true,
+    "enable_global_spacing_and_separation_modifier": true,
+    "global_spacing_and_separation_modifier": 2.0
+  },
+  "structure_namespaces": [
+    {
+      "name": "block_factorys_bosses",
+      "is_disabled": false,
+      "override_global_distance_from_world_center": true,
+      "min_distance_from_world_center": 1000,
+      "max_distance_from_world_center": 0
+    }
+  ],
+  "structures": [
+    {
+      "name": "cataclysm:ruined_citadel",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "create_easy_structures:big_1",
+      "whitelisted_biomes": [
+        "minecraft:jungle",
+        "minecraft:bamboo_jungle"
+      ]
+    },
+    {
+      "name": "idas:castle",
+      "is_disabled": true
+    },
+    {
+      "name": "idas:tinkers_workshop",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:illager_camp",
+      "blacklisted_biomes": [
+        "minecraft:river"
+      ]
+    },
+    {
+      "name": "underground_village:underground_village",
+      "is_disabled": true,
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ]
+    }
+  ],
+  "structure_sets": [
+    {
+      "spacing": 32,
+      "separation": 16,
+      "name": "betterarcheology:archeology_sites",
+      "is_disabled": false,
+      "salt": 990880770,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "betterarcheology:buried_ruins_sand": 5,
+        "betterarcheology:catacombs": 2,
+        "betterarcheology:archeologist_camp_sand": 5,
+        "betterarcheology:mesa_ruins": 4,
+        "betterarcheology:temple_jungle": 5,
+        "betterarcheology:mott": 5,
+        "betterarcheology:desert_obelisk": 6,
+        "betterarcheology:ruins_sand": 5,
+        "betterarcheology:stonehenge_grassy": 5,
+        "betterarcheology:archeologist_camp_redsand": 5,
+        "betterarcheology:tumulus_grassy": 4,
+        "betterarcheology:archeologist_camp_grassy": 5,
+        "betterarcheology:light_temple": 2
+      }
+    },
+    {
+      "spacing": 120,
+      "separation": 8,
+      "name": "born_in_chaos_v1:clown_caravan_plains",
+      "is_disabled": false,
+      "salt": 809257424,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "born_in_chaos_v1:clown_caravan_plains": 1
+      }
+    },
+    {
+      "spacing": 90,
+      "separation": 10,
+      "name": "born_in_chaos_v1:clown_caravan_savanna",
+      "is_disabled": false,
+      "salt": 966731024,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "born_in_chaos_v1:clown_caravan_savanna": 1
+      }
+    },
+    {
+      "spacing": 80,
+      "separation": 8,
+      "name": "born_in_chaos_v1:clown_caravan_taiga",
+      "is_disabled": false,
+      "salt": 1703928760,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "born_in_chaos_v1:clown_caravan_taiga": 1
+      }
+    },
+    {
+      "spacing": 75,
+      "separation": 14,
+      "name": "born_in_chaos_v1:dark_tower_forest",
+      "is_disabled": false,
+      "salt": 158416380,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "born_in_chaos_v1:dark_tower_forest": 1
+      }
+    },
+    {
+      "spacing": 75,
+      "separation": 10,
+      "name": "born_in_chaos_v1:dark_tower_taiga",
+      "is_disabled": false,
+      "salt": 593635684,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "born_in_chaos_v1:dark_tower_taiga": 1
+      }
+    },
+    {
+      "spacing": 65,
+      "separation": 6,
+      "name": "born_in_chaos_v1:farm",
+      "is_disabled": false,
+      "salt": 373118085,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "born_in_chaos_v1:farm": 1
+      }
+    },
+    {
+      "spacing": 65,
+      "separation": 9,
+      "name": "born_in_chaos_v1:firewell",
+      "is_disabled": false,
+      "salt": 2021465820,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "born_in_chaos_v1:firewell": 1
+      }
+    },
+    {
+      "spacing": 50,
+      "separation": 3,
+      "name": "born_in_chaos_v1:mound_of_hounds",
+      "is_disabled": false,
+      "salt": 2109128832,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "born_in_chaos_v1:mound_of_hounds": 1
+      }
+    },
+    {
+      "spacing": 65,
+      "separation": 12,
+      "name": "born_in_chaos_v1:observation_tower_forest",
+      "is_disabled": false,
+      "salt": 1528432837,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "born_in_chaos_v1:observation_tower_forest": 1
+      }
+    },
+    {
+      "spacing": 30,
+      "separation": 20,
+      "name": "cataclysm:abandoned_structures",
+      "is_disabled": false,
+      "salt": 514659267,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "cataclysm:abandoned_temple": 1,
+        "cataclysm:abandoned_spire": 1,
+        "cataclysm:abandoned_village": 1
+      }
+    },
+    {
+      "spacing": 80,
+      "separation": 50,
+      "name": "cataclysm:acropolis",
+      "is_disabled": false,
+      "salt": 913530101,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "cataclysm:acropolis": 1
+      }
+    },
+    {
+      "spacing": 32,
+      "separation": 8,
+      "name": "cataclysm:amethyst_nest",
+      "is_disabled": false,
+      "salt": 14325760,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "cataclysm:amethyst_nest": 1
+      }
+    },
+    {
+      "spacing": 112,
+      "separation": 70,
+      "name": "cataclysm:ancient_factory",
+      "is_disabled": false,
+      "salt": 319514301,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "cataclysm:ancient_factory": 1
+      }
+    },
+    {
+      "spacing": 80,
+      "separation": 50,
+      "name": "cataclysm:cursed_pyramid",
+      "is_disabled": false,
+      "salt": 577299997,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "cataclysm:cursed_pyramid": 1
+      }
+    },
+    {
+      "spacing": 30,
+      "separation": 20,
+      "name": "cataclysm:desert_structures",
+      "is_disabled": false,
+      "salt": 31547671,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "cataclysm:desert_occupied_village": 1,
+        "cataclysm:desert_site": 1
+      }
+    },
+    {
+      "spacing": 80,
+      "separation": 50,
+      "name": "cataclysm:frosted_prison",
+      "is_disabled": false,
+      "salt": 1577172143,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "cataclysm:frosted_prison": 1
+      }
+    },
+    {
+      "spacing": 50,
+      "separation": 25,
+      "name": "cataclysm:ruined_citadel",
+      "is_disabled": false,
+      "salt": 367895146,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "cataclysm:ruined_citadel": 1
+      }
+    },
+    {
+      "spacing": 60,
+      "separation": 50,
+      "name": "cataclysm:soul_black_smith",
+      "is_disabled": false,
+      "salt": 1984567320,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "cataclysm:soul_black_smith": 1
+      }
+    },
+    {
+      "spacing": 100,
+      "separation": 70,
+      "name": "cataclysm:sunken_city",
+      "is_disabled": false,
+      "salt": 1673928450,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "cataclysm:sunken_city": 1
+      }
+    },
+    {
+      "spacing": 12,
+      "separation": 4,
+      "name": "clifftree:beached_treasure",
+      "is_disabled": false,
+      "salt": 8355621,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "clifftree:beached_treasure": 1
+      }
+    },
+    {
+      "spacing": 32,
+      "separation": 8,
+      "name": "clifftree:camel",
+      "is_disabled": false,
+      "salt": 14357617,
+      "frequency": 0.5,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "clifftree:camel": 1
+      }
+    },
+    {
+      "spacing": 60,
+      "separation": 25,
+      "name": "create_easy_structures:big_1",
+      "is_disabled": false,
+      "salt": 878977526,
+      "frequency": 0.79999995,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "create_easy_structures:big_1": 1
+      }
+    },
+    {
+      "spacing": 24,
+      "separation": 12,
+      "name": "create_rustic_structures:rustic_smithy",
+      "is_disabled": false,
+      "salt": 703989288,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "create_rustic_structures:rustic_smithy": 1
+      }
+    },
+    {
+      "spacing": 16,
+      "separation": 8,
+      "name": "create_rustic_structures:rustic_well",
+      "is_disabled": false,
+      "salt": 1221516354,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "create_rustic_structures:rustic_well": 1
+      }
+    },
+    {
+      "spacing": 21,
+      "separation": 12,
+      "name": "idas:idas_common",
+      "is_disabled": false,
+      "salt": 169480670,
+      "frequency": 0.404,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "idas:dig_site/dig_site": 5,
+        "idas:abandoned_vineyard": 4,
+        "idas:ruined_church": 3,
+        "idas:desert_ruins": 2,
+        "idas:the_log": 3,
+        "idas:mason_house": 5,
+        "idas:witches_treestump": 3,
+        "idas:ruined_well": 3,
+        "idas:beekeepers_house": 5,
+        "idas:winter_wagon": 1,
+        "idas:wizard_tower": 4,
+        "idas:bearclaw_inn": 5,
+        "idas:hermits_hollow": 4,
+        "idas:ruined_fort": 3,
+        "idas:fishermans_lodge": 3,
+        "idas:hunters_cabin": 4,
+        "idas:abandonedhouse": 5,
+        "idas:farmhouse": 5,
+        "idas:redhorn_guild": 3,
+        "idas:haunted_manor": 1,
+        "idas:treetop_tavern": 1,
+        "idas:dig_site/dig_site_desert": 5,
+        "idas:brickhouse": 5,
+        "idas:botanist": 5,
+        "idas:enchantingtower": 4,
+        "idas:tudor_pub": 3,
+        "idas:apothecary_abode": 1,
+        "idas:castle": 7,
+        "idas:wacky_wares": 3
+      }
+    },
+    {
+      "spacing": 35,
+      "separation": 20,
+      "name": "idas:idas_nether",
+      "is_disabled": false,
+      "salt": 169481692,
+      "frequency": 0.344,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "idas:necromancers_spire": 1,
+        "idas:ancient_portal/nether_ancient_portal": 1
+      }
+    },
+    {
+      "spacing": 35,
+      "separation": 29,
+      "name": "idas:idas_ocean",
+      "is_disabled": false,
+      "salt": 169480681,
+      "frequency": 0.56200004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "idas:iceandfire/sirens_cove": 1,
+        "idas:sunken_ship/sunken_ship": 1,
+        "idas:sunken_ship/sunken_ship_coral": 1,
+        "idas:sunken_ship/sunken_ship_ruins": 1
+      }
+    },
+    {
+      "spacing": 45,
+      "separation": 20,
+      "name": "idas:idas_rare",
+      "is_disabled": false,
+      "salt": 169480678,
+      "frequency": 0.19900002,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "idas:bazaar": 10,
+        "idas:tinkers_citadel": 2,
+        "idas:ars_nouveau/archmages_tower": 10,
+        "idas:labyrinth": 10,
+        "idas:windswept_shrine": 12,
+        "idas:ruins_of_the_deep": 10,
+        "idas:pillager_fortress": 5,
+        "idas:desert_pyramid": 2,
+        "idas:tree_of_wisdom": 5,
+        "idas:collectors_museum": 10,
+        "idas:iceandfire/dread_citadel": 10,
+        "idas:tinkers_workshop": 0,
+        "idas:ancient_mines": 10
+      }
+    },
+    {
+      "spacing": 26,
+      "separation": 20,
+      "name": "idas:idas_small",
+      "is_disabled": false,
+      "salt": 169480673,
+      "frequency": 0.52500004,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "idas:lumber_camp/lumber_camp_jungle": 3,
+        "idas:desert_camp/desert_camp_bygwindswept": 3,
+        "idas:animal_den/polar_bear_den": 3,
+        "idas:lumber_camp/lumber_camp_bygmahogany": 3,
+        "idas:sunken_ship/sunken_ship_ruins": 3,
+        "idas:lumber_camp/lumber_camp_oak": 3,
+        "idas:lumber_camp/lumber_camp_bygredwood": 3,
+        "idas:snifferhenge": 1,
+        "idas:abandoned_lighthouse": 1,
+        "idas:desert_camp/desert_camp_red": 3,
+        "idas:desert_market/desert_market_red": 2,
+        "idas:animal_den/forest_den": 3,
+        "idas:ancient_statue/ancient_statue_desert": 2,
+        "idas:ancient_statue/ancient_statue_jungle": 3,
+        "idas:desert_market/desert_market_orange": 2,
+        "idas:lumber_camp/lumber_camp_acacia": 3,
+        "idas:pillager_camp": 3,
+        "idas:lumber_camp/lumber_camp_dark_oak": 3,
+        "idas:lumber_camp/lumber_camp_birch": 3,
+        "idas:lumber_camp/lumber_camp_bopredwood": 3,
+        "idas:frozen_crypt": 1,
+        "idas:desert_camp/desert_camp": 3,
+        "idas:lumber_camp/lumber_camp_bopmahogany": 3,
+        "idas:cottage": 3,
+        "idas:desert_camp/desert_camp_orange": 3,
+        "idas:train_ruins": 2,
+        "idas:lumber_camp/lumber_camp_spruce": 3,
+        "idas:desert_market/desert_market": 2,
+        "idas:ancient_statue/ancient_statue_plains": 3,
+        "idas:washing_camp": 3
+      }
+    },
+    {
+      "spacing": 30,
+      "separation": 25,
+      "name": "idas:idas_small_nether",
+      "is_disabled": false,
+      "salt": 169263692,
+      "frequency": 0.74500006,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "idas:animal_den/foxhound_den": 1,
+        "idas:nether_pump_camp": 1
+      }
+    },
+    {
+      "spacing": 85,
+      "separation": 50,
+      "name": "integrated_stronghold:stronghold",
+      "is_disabled": false,
+      "salt": 68173563,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "integrated_stronghold:stronghold": 1
+      }
+    },
+    {
+      "spacing": 42,
+      "separation": 6,
+      "name": "medieval_nether:houses",
+      "is_disabled": false,
+      "salt": 16892232,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "medieval_nether:dome": 100,
+        "medieval_nether:shrine": 230,
+        "medieval_nether:castle": 25,
+        "medieval_nether:ship": 60,
+        "medieval_nether:house": 160
+      }
+    },
+    {
+      "spacing": 28,
+      "separation": 22,
+      "name": "medievalend:houses",
+      "is_disabled": false,
+      "salt": 558271623,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "medievalend:castle": 25,
+        "medievalend:shrine": 50,
+        "medievalend:house": 120,
+        "medievalend:pyramid": 30,
+        "medievalend:ship": 1
+      }
+    },
+    {
+      "spacing": 24,
+      "separation": 8,
+      "name": "minecraft:ancient_cities",
+      "is_disabled": false,
+      "salt": 20083232,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:ancient_city": 1
+      }
+    },
+    {
+      "spacing": 32,
+      "separation": 8,
+      "name": "minecraft:desert_pyramids",
+      "is_disabled": false,
+      "salt": 14357617,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:desert_pyramid": 1
+      }
+    },
+    {
+      "spacing": 20,
+      "separation": 11,
+      "name": "minecraft:end_cities",
+      "is_disabled": false,
+      "salt": 10387313,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:end_city": 1
+      }
+    },
+    {
+      "spacing": 32,
+      "separation": 8,
+      "name": "minecraft:igloos",
+      "is_disabled": false,
+      "salt": 14357618,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:igloo_dirt": 1,
+        "minecraft:igloo": 1
+      }
+    },
+    {
+      "spacing": 32,
+      "separation": 8,
+      "name": "minecraft:jungle_temples",
+      "is_disabled": false,
+      "salt": 14357619,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:jungle_pyramid": 1
+      }
+    },
+    {
+      "spacing": 27,
+      "separation": 4,
+      "name": "minecraft:nether_complexes",
+      "is_disabled": false,
+      "salt": 30084232,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:bastion_remnant": 3,
+        "minecraft:fortress": 2
+      }
+    },
+    {
+      "spacing": 2,
+      "separation": 1,
+      "name": "minecraft:nether_fossils",
+      "is_disabled": false,
+      "salt": 14357921,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:nether_fossil": 1
+      }
+    },
+    {
+      "spacing": 32,
+      "separation": 5,
+      "name": "minecraft:ocean_monuments",
+      "is_disabled": false,
+      "salt": 10387313,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:monument": 1
+      }
+    },
+    {
+      "spacing": 20,
+      "separation": 8,
+      "name": "minecraft:ocean_ruins",
+      "is_disabled": false,
+      "salt": 14357621,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:ocean_ruin_warm": 1,
+        "minecraft:ocean_ruin_cold": 1
+      }
+    },
+    {
+      "spacing": 32,
+      "separation": 8,
+      "name": "minecraft:pillager_outposts",
+      "is_disabled": false,
+      "salt": 165745296,
+      "frequency": 0.2,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:pillager_outpost": 1
+      }
+    },
+    {
+      "spacing": 40,
+      "separation": 15,
+      "name": "minecraft:ruined_portals",
+      "is_disabled": false,
+      "salt": 34222645,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:ruined_portal": 1,
+        "minecraft:ruined_portal_nether": 1,
+        "minecraft:ruined_portal_swamp": 1,
+        "minecraft:ruined_portal_mountain": 1,
+        "minecraft:ruined_portal_jungle": 1,
+        "minecraft:ruined_portal_ocean": 1,
+        "minecraft:ruined_portal_desert": 1
+      }
+    },
+    {
+      "spacing": 24,
+      "separation": 4,
+      "name": "minecraft:shipwrecks",
+      "is_disabled": false,
+      "salt": 165745295,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:shipwreck": 1,
+        "minecraft:shipwreck_beached": 1
+      }
+    },
+    {
+      "spacing": 24,
+      "separation": 4,
+      "name": "minecraft:shipwrecks_stone_ocean",
+      "is_disabled": false,
+      "salt": 165745295,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:shipwreck_stone_ocean": 1
+      }
+    },
+    {
+      "spacing": 32,
+      "separation": 8,
+      "name": "minecraft:swamp_huts",
+      "is_disabled": false,
+      "salt": 14357620,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:swamp_hut": 1
+      }
+    },
+    {
+      "spacing": 34,
+      "separation": 8,
+      "name": "minecraft:trail_ruins",
+      "is_disabled": false,
+      "salt": 83469867,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:trail_ruins": 1
+      }
+    },
+    {
+      "spacing": 34,
+      "separation": 8,
+      "name": "minecraft:villages",
+      "is_disabled": false,
+      "salt": 10387312,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "minecraft:village_snowy": 1,
+        "minecraft:village_plains": 1,
+        "minecraft:village_taiga": 1,
+        "minecraft:village_savanna": 1,
+        "minecraft:village_desert": 1
+      }
+    },
+    {
+      "spacing": 80,
+      "separation": 20,
+      "name": "minecraft:woodland_mansions",
+      "is_disabled": false,
+      "salt": 10387319,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "nova_structures:illager_manor": 1,
+        "minecraft:mansion": 1
+      }
+    },
+    {
+      "spacing": 85,
+      "separation": 40,
+      "name": "nova_structures:nether_structures",
+      "is_disabled": false,
+      "salt": 5894302,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "nova_structures:piglin_outstation": 20,
+        "nova_structures:nether_port": 20,
+        "nova_structures:hamlet": 40,
+        "nova_structures:donjon": 1,
+        "nova_structures:nether_keep": 10
+      }
+    },
+    {
+      "spacing": 25,
+      "separation": 8,
+      "name": "ribbits:ribbit_village",
+      "is_disabled": false,
+      "salt": 2937541,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "structure_weights": {
+        "ribbits:ribbit_village": 1
+      }
+    }
+  ],
+  "structure_template_pools": []
+}

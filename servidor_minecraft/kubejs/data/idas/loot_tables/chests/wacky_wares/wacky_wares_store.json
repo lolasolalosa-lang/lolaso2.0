@@ -1,0 +1,74 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "idas:chests/wacky_wares/wacky_wares_mining",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "idas:chests/wacky_wares/wacky_wares_gardening",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "idas:chests/wacky_wares/wacky_wares_farming",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "idas:chests/wacky_wares/wacky_wares_fishing",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "idas:chests/wacky_wares/wacky_wares_crystals",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "idas:chests/wacky_wares/wacky_wares_furniture",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "idas:chests/wacky_wares/wacky_wares_create_machines",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "idas:chests/wacky_wares/wacky_wares_animals",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "idas:chests/wacky_wares/wacky_wares_misc",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "rolls":{
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 1
+      },
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 95
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "enigmaticdice:enigmatic_die"
+        }
+      ]
+    }
+  ]
+}

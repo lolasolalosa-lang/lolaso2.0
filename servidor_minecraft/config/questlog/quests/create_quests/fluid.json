@@ -1,0 +1,31 @@
+{
+	"title": "questlog.quest.fluid.title",
+	"description": "questlog.quest.fluid.description",
+  "translatable": true,
+	"icon": {
+		"item": "fluid:pipette"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "14",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "fluid:baton",
+      "item": "fluid:baton"
+    }
+  ],
+	"rewards": [
+		{
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 15
+    }
+	]
+}

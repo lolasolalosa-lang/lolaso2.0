@@ -1,0 +1,39 @@
+{
+	"title": "questlog.quest.trades.title",
+	"description": "questlog.quest.trades.description",
+  "translatable": true,
+	"icon": {
+		"item": "trading_floor:trading_depot"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "9",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "trading_floor:trading_depot",
+      "required_amount": 1,
+      "item": "trading_floor:trading_depot"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "minecraft:emerald",
+      "item": "minecraft:emerald",
+      "claim_sound": "minecraft:entity.item.pickup",
+      "count": 8
+    },
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

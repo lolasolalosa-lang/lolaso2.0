@@ -1,0 +1,22 @@
+{
+  "display_name": "Blazegun",
+  "research_time": 30,
+  "icon": "cgs:blazegun",
+  "items": [
+    "cgs:blazegun"
+  ],
+  "tags": [],
+  "mods": [],
+  "mod_exceptions": [],
+  "recipes": [],
+  "dimensions": [],
+  "structures": {
+    "structures": []
+  },
+  "entities": {
+    "spawnlock": [],
+    "attacklock": [],
+    "modLinked": []
+  },
+  "dependencies": []
+}

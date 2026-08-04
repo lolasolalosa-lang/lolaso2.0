@@ -1,0 +1,127 @@
+{
+  "creative_tab.ntrials.main": "NewTrials: Основное",
+  "creative_tab.ntrials.copper": "NewTrials: Медь",
+
+  "effect.ntrials.trial_omen": "Знамение испытаний",
+
+  "advancements.adventure.minecraft_trials_edition.description": "Впервые войти в камеру испытаний",
+  "advancements.adventure.minecraft_trials_edition.title": "Камера испытаний",
+  "advancements.adventure.under_lock_and_key.description": "Открыть хранилище ключом испытаний",
+  "advancements.adventure.under_lock_and_key.title": "Под замком",
+  "advancements.adventure.revaulting.description": "Открыть зловещее хранилище зловещим ключом испытаний",
+  "advancements.adventure.revaulting.title": "Повторное вскрытие",
+  "advancements.adventure.bossvault.description": "Открыть хранилище босса ключом босса испытаний",
+  "advancements.adventure.bossvault.title": "Сокровища хранилища",
+  "advancements.adventure.overoverkill.description": "Нанести 50 сердец урона одним ударом булавой",
+  "advancements.adventure.overoverkill.title": "Сверх-сверхубийство",
+  "advancements.adventure.lighten_up.description": "Соскоблить медную лампу топором, чтобы сделать её ярче",
+  "advancements.adventure.lighten_up.title": "Освети-ка",
+
+  "block.ntrials.heavy_core": "§dТяжёлое ядро§r",
+  "item.ntrials.trial_key": "Ключ испытаний",
+  "item.ntrials.ominous_trial_key": "Зловещий ключ испытаний",
+  "item.ntrials.boss_trial_key": "Ключ босса испытаний",
+  "item.ntrials.mace": "§dБулава§r",
+  "item.ntrials.mace_handle": "§dРукоять булавы§r",
+  "item.ntrials.copper_upgrade_smithing_template": "Кузнечный шаблон",
+
+  "upgrade.ntrials.copper_upgrade": "Медное улучшение",
+  "item.ntrials.smithing_template.copper_upgrade.applies_to": "Жезл бриза",
+  "item.ntrials.smithing_template.copper_upgrade.ingredients": "Обломок незерита",
+
+  "item.ntrials.bolt_armor_trim_smithing_template": "Кузнечный шаблон",
+  "trim_pattern.ntrials.bolt": "Узор брони «Молния»",
+  "item.ntrials.flow_armor_trim_smithing_template": "Кузнечный шаблон",
+  "trim_pattern.ntrials.flow": "Узор брони «Поток»",
+
+  "item.ntrials.ominous_bottle": "Зловещая бутылка",
+
+  "item.ntrials.wind_charge": "Заряд ветра",
+  "item.ntrials.breeze_rod": "Жезл бриза",
+
+  "block.ntrials.trial_spawner": "Испытательный спавнер",
+  "block.ntrials.trial_spawner_boss": "Испытательный спавнер босса",
+  "block.ntrials.vault": "Хранилище",
+  "block.ntrials.vault_boss": "Хранилище босса",
+
+  "block.ntrials.tuff_bricks": "Туфовые кирпичи",
+  "block.ntrials.chiseled_tuff": "Резной туф",
+  "block.ntrials.chiseled_tuff_bricks": "Резные туфовые кирпичи",
+  "block.ntrials.polished_tuff": "Полированный туф",
+
+  "block.ntrials.tuff_stairs": "Туфовые ступени",
+  "block.ntrials.tuff_brick_stairs": "Туфовые кирпичные ступени",
+  "block.ntrials.polished_tuff_stairs": "Ступени из полированного туфа",
+
+  "block.ntrials.tuff_slab": "Туфовая плита",
+  "block.ntrials.tuff_brick_slab": "Туфовая кирпичная плита",
+  "block.ntrials.polished_tuff_slab": "Плита из полированного туфа",
+
+  "block.ntrials.tuff_wall": "Туфовая ограда",
+  "block.ntrials.tuff_brick_wall": "Туфовая кирпичная ограда",
+  "block.ntrials.polished_tuff_wall": "Ограда из полированного туфа",
+
+  "block.ntrials.chiseled_copper": "Резная медь",
+  "block.ntrials.exposed_chiseled_copper": "Потемневшая резная медь",
+  "block.ntrials.weathered_chiseled_copper": "Состаренная резная медь",
+  "block.ntrials.oxidized_chiseled_copper": "Окисленная резная медь",
+
+  "block.ntrials.waxed_chiseled_copper": "Вощёная резная медь",
+  "block.ntrials.waxed_exposed_chiseled_copper": "Вощёная потемневшая резная медь",
+  "block.ntrials.waxed_weathered_chiseled_copper": "Вощёная состаренная резная медь",
+  "block.ntrials.waxed_oxidized_chiseled_copper": "Вощёная окисленная резная медь",
+
+  "block.ntrials.copper_door": "Медная дверь",
+  "block.ntrials.exposed_copper_door": "Потемневшая медная дверь",
+  "block.ntrials.weathered_copper_door": "Состаренная медная дверь",
+  "block.ntrials.oxidized_copper_door": "Окисленная медная дверь",
+
+  "block.ntrials.waxed_copper_door": "Вощёная медная дверь",
+  "block.ntrials.waxed_exposed_copper_door": "Вощёная потемневшая медная дверь",
+  "block.ntrials.waxed_weathered_copper_door": "Вощёная состаренная медная дверь",
+  "block.ntrials.waxed_oxidized_copper_door": "Вощёная окисленная медная дверь",
+
+  "block.ntrials.copper_trapdoor": "Медный люк",
+  "block.ntrials.exposed_copper_trapdoor": "Потемневший медный люк",
+  "block.ntrials.weathered_copper_trapdoor": "Состаренный медный люк",
+  "block.ntrials.oxidized_copper_trapdoor": "Окисленный медный люк",
+
+  "block.ntrials.waxed_copper_trapdoor": "Вощёный медный люк",
+  "block.ntrials.waxed_exposed_copper_trapdoor": "Вощёный потемневший медный люк",
+  "block.ntrials.waxed_weathered_copper_trapdoor": "Вощёный состаренный медный люк",
+  "block.ntrials.waxed_oxidized_copper_trapdoor": "Вощёный окисленный медный люк",
+
+  "block.ntrials.copper_grate": "Медная решётка",
+  "block.ntrials.exposed_copper_grate": "Потемневшая медная решётка",
+  "block.ntrials.weathered_copper_grate": "Состаренная медная решётка",
+  "block.ntrials.oxidized_copper_grate": "Окисленная медная решётка",
+
+  "block.ntrials.waxed_copper_grate": "Вощёная медная решётка",
+  "block.ntrials.waxed_exposed_copper_grate": "Вощёная потемневшая медная решётка",
+  "block.ntrials.waxed_weathered_copper_grate": "Вощёная состаренная медная решётка",
+  "block.ntrials.waxed_oxidized_copper_grate": "Вощёная окисленная медная решётка",
+
+  "block.ntrials.copper_bulb": "Медная лампа",
+  "block.ntrials.exposed_copper_bulb": "Потемневшая медная лампа",
+  "block.ntrials.weathered_copper_bulb": "Состаренная медная лампа",
+  "block.ntrials.oxidized_copper_bulb": "Окисленная медная лампа",
+
+  "block.ntrials.waxed_copper_bulb": "Вощёная медная лампа",
+  "block.ntrials.waxed_exposed_copper_bulb": "Вощёная потемневшая медная лампа",
+  "block.ntrials.waxed_weathered_copper_bulb": "Вощёная состаренная медная лампа",
+  "block.ntrials.waxed_oxidized_copper_bulb": "Вощёная окисленная медная лампа",
+
+  "enchantment.ntrials.wind_burst": "Порыв ветра",
+  "enchantment.ntrials.density": "Плотность",
+  "enchantment.ntrials.breach": "Пробой",
+
+  "entity.ntrials.bogged": "Болотник",
+  "entity.ntrials.breeze": "Бриз",
+  "entity.ntrials.breeze_boss": "Босс-бриз",
+
+  "item.ntrials.bogged_spawn_egg": "Яйцо призыва болотника",
+  "item.ntrials.breeze_spawn_egg": "Яйцо призыва бриза",
+  "item.ntrials.breeze_boss_spawn_egg": "Яйцо призыва босса-бриза",
+
+  "item.ntrials.trials_explorer_map": "Карта исследователя испытаний"
+}

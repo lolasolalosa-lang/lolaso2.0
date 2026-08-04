@@ -1,0 +1,29 @@
+{
+	"title": "questlog.quest.dice.title",
+	"description": "questlog.quest.dice.description",
+  "translatable": true,
+	"icon": {
+		"item": "enigmaticdice:enigmatic_die"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+  "chapter": "eternal_journey",
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "enigmaticdice:enigmatic_die",
+      "item": "enigmaticdice:enigmatic_die"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 50
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "replace": false,
+	"values": [
+	  "legendary_monsters:infected_chorus_fruit",
+	  "endersdelight:veil_of_flames_risotto",
+	  "endersdelight:amberveiled_curry",
+	  "endersdelight:amberveil_stew",
+	  "farmersrespite:coffee_berries",
+	  "endersdelight:stuffed_shulker_bowl",
+	  "dungeonsdelight:silverfish_and_chips",
+	  "dungeonsdelight:guardian_angel",
+	  "vinery:jungle_grapes_red",
+	  "vinery:jungle_grapes_white",
+	  "vinery:white_grape",
+	  "vinery:taiga_grapes_white",
+	  "vinery:cherry",
+	  "vinery:rotten_cherry",
+	  "nethervinery:crimson_grape",
+	  "nethervinery:warped_grape",
+	  "vinery:red_grape",
+	  "vinery:savanna_grapes_red",
+	  "vinery:savanna_grapes_white",
+	  "vinery:taiga_grapes_red",
+	  "lendersdelight:glazed_remnant_skull",
+	  "dungeonsdelight:candied_silverfish_sucker",
+	  "dungeonsdelight:candied_vex_sucker",
+	  "phantasm:oblifruit",
+	  "phantasm:pomb_slice",
+	  "quark:ancient_fruit",
+	  "unusualend:wandering_stew",
+	  "unusualend:gloopilon_slice",
+	  "phantasm:pream_berry",
+	  "yungscavebiomes:prickly_peach",
+	  "miners_delight:plate_of_glazed_arachnid_limbs"
+
+	]
+}

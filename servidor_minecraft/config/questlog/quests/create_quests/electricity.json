@@ -1,0 +1,47 @@
+{
+	"title": "questlog.quest.electricity.title",
+	"description": "questlog.quest.electricity.description",
+  "translatable": true,
+	"icon": {
+		"item": "createaddition:electric_motor"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "18",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "createaddition:alternator",
+      "item": "createaddition:alternator"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "createaddition:modular_accumulator",
+      "item": "createaddition:modular_accumulator"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "createaddition:straw",
+      "item": "createaddition:straw"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "createaddition:honey_cake",
+      "item": "createaddition:honey_cake",
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+		{
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

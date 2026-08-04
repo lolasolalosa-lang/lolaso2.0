@@ -1,0 +1,38 @@
+{
+	"title": "questlog.quest.backpacks.title",
+	"description": "questlog.quest.backpacks.description",
+  "translatable": true,
+	"icon": {
+		"item": "sophisticatedbackpacks:backpack"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+  "chapter": "eternal_journey",
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "translatable": true,
+      "name": "questlog.quest.backpacks.objective",
+      "icon": "sophisticatedbackpacks:backpack",
+      "item": "#kubejs:backpacks"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "sophisticatedbackpacks:upgrade_base",
+      "item": "sophisticatedbackpacks:upgrade_base",
+      "count": 1,
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 50
+    }
+  ]
+}

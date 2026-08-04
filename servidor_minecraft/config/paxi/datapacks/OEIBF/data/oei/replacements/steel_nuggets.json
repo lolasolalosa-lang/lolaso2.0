@@ -1,0 +1,14 @@
+[
+  {
+    "matchItems": [
+      "cgs:steel_nugget"
+    ],
+    "resultItems": "alloyed:steel_nugget"
+  },
+  {
+    "matchItems": [
+      "cgs:steel_nugget"
+    ],
+    "resultItems": "alloyed:steel_nugget"
+  }
+]

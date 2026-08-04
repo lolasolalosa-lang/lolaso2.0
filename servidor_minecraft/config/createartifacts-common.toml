@@ -1,0 +1,7 @@
+#The rate at which the Bubel Artifact regenerates air in the Backtank (per tick)
+#Range: 0.0 ~ 1.7976931348623157E308
+airRegenRate = 0.01
+#The rate at which the Bubel Artifact regenerates air in the Backtank (per tick)
+#Range: 0.0 ~ 1.7976931348623157E308
+airRegenRateNether = 0.5
+

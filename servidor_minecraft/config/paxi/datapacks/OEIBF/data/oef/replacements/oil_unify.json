@@ -1,0 +1,8 @@
+[
+  {
+    "matchFluid": [
+      "createaddition:seed_oil"
+    ],
+    "resultFluid": "createdieselgenerators:plant_oil"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "display_name": "Revolver",
+  "research_time": 20,
+  "items": [
+    "cgs:revolver"
+  ],
+  "tags": [],
+  "mods": [],
+  "recipes": [
+    "cgs:mechanical_crafting/revolver"
+  ],
+  "dimensions": [],
+  "entities": {
+    "spawnlock": [],
+    "attacklock": [],
+    "modLinked": []
+  }
+}

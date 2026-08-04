@@ -1,0 +1,160 @@
+{
+	"title": "questlog.quest.find.title",
+	"description": "questlog.quest.find.description",
+	"translatable": true,
+	"icon": {
+		"item": "create:cogwheel"
+	},
+	"chapter": "eternal_journey",
+	"sort_order": "5",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+],
+	"objectives": [
+		{
+			"type": "questlog:or",
+			"name": "questlog.quest.find.objective",
+			"translatable": true,
+			"icon": "minecraft:spyglass",
+			"objectives": [
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create:water_wheel"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create:windmill"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:windmill"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:water_wheel"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:camp_1"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:camp_2"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:camp_3"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:camp_4"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:camp_5"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:big_1"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:big_2"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:big_3"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:house_2"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:house_3"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:house_4"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:factory_1"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_easy_structures:factory_2"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_rustic_structures:rustic_well"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_rustic_structures:rustic_barn"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_rustic_structures:rustic_windmill"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_rustic_structures:rustic_smithy"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_ltab:big_windmill"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_ltab:grot"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_ltab:jungle_well"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_ltab:kings_castle"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_ltab:oak_house"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_ltab:plains_small"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_ltab:railroad"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_ltab:snow_fort"
+				},
+				{
+					"type": "questlog:visit_structure",
+					"structure": "create_ltab:thecastle"
+				}
+			]
+		}
+	],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "create:sweet_roll",
+      "item": "create:sweet_roll",
+	  "claim_sound": "minecraft:entity.item.pickup",
+	  "count": 2
+    },
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 50
+    }
+  ]
+}

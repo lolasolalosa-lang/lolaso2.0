@@ -1,0 +1,38 @@
+{
+	"title": "Больше незерита!",
+	"description": "Вы же это автоматизируете, ведь так?",
+	"icon": {
+		"item": "minecraft:netherite_block"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:so_bored/about"
+    }
+	],
+  "chapter": "so_boring",
+  "objectives": [
+    {
+          "type": "questlog:item_obtain",
+          "icon": "minecraft:netherite_block",
+          "item": "minecraft:netherite_block",
+          "required_amount": 64
+        }
+  ],
+	"rewards": [
+		{
+      "type": "questlog:item",
+      "icon": "lendersdelight:cooked_netherite_monstrosity_meat",
+      "item": "lendersdelight:cooked_netherite_monstrosity_meat",
+      "count": 2,
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+    {
+      "type": "questlog:item",
+      "icon": "enigmaticdice:enigmatic_die",
+      "item": "enigmaticdice:enigmatic_die",
+      "count": 1,
+      "claim_sound": "minecraft:entity.item.pickup"
+    }
+  ]
+}

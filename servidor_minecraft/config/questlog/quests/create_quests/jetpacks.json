@@ -1,0 +1,34 @@
+{
+	"title": "questlog.quest.jetpacks.title",
+	"description": "questlog.quest.jetpacks.description",
+  "translatable": true,
+	"icon": {
+		"item": "create_sa:brass_jetpack_chestplate"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "8",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "name": "questlog.quest.jetpacks.objective",
+      "translatable": true,
+      "icon": {"item": "create_sa:copper_jetpack_chestplate"},
+      "required_amount": 1,
+      "item": "#create_sa:jetpack"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

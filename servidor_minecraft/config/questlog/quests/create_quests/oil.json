@@ -1,0 +1,43 @@
+{
+	"title": "questlog.quest.oil.title",
+	"description": "questlog.quest.oil.description",
+  "translatable": true,
+	"icon": {
+		"item": "createdieselgenerators:crude_oil_bucket"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "17",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "createdieselgenerators:gasoline_bucket",
+      "item": "createdieselgenerators:gasoline_bucket"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "createdieselgenerators:biodiesel_bucket",
+      "item": "createdieselgenerators:biodiesel_bucket"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "createdieselgenerators:lighter",
+      "item": "createdieselgenerators:lighter",
+      "claim_sound": "minecraft:entity.item.pickup",
+      "count": 1
+    },
+		{
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

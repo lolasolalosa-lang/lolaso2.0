@@ -1,0 +1,22 @@
+{
+    "replace": false,
+	"values": [
+	  "born_in_chaos_v1:caramel_pepper",
+	  "born_in_chaos_v1:gummy_vampire_teeth",
+	  "born_in_chaos_v1:chocolate_heart",
+	  "born_in_chaos_v1:coffee_candy",
+	  "born_in_chaos_v1:holiday_candy",
+	  "born_in_chaos_v1:magical_holiday_candy",
+	  "dungeonsdelight:glow_berry_gelatin",
+	  "dungeonsdelight:candied_silverfish_sucker",
+	  "dungeonsdelight:candied_vex_sucker",
+	  "dungeonsdelight:guardian_angel",
+	  "mynethersdelight:tear_popsicle",
+	  "dungeonsdelight:silverfish_and_chips",
+	  "farmersrespite:rose_hip_pie",
+	  "unusualend:wandering_stew",
+	  "unusualend:chorus_petal",
+	  "phantasm:eggs_nihilo",
+	  "miners_delight:plate_of_glazed_arachnid_limbs"
+	]
+}

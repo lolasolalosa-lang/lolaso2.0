@@ -1,0 +1,30 @@
+{
+	"title": "questlog.quest.zoom.title",
+	"description": "questlog.quest.zoom.description",
+	"translatable": true,
+	"icon": {
+		"item": "minecraft:spyglass"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+  "chapter": "questlog:main",
+  "triggers": [],
+	"objectives": [
+		{
+			"type": "questlog:read"
+		}
+	],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 20
+    }
+  ],
+   "toast_on_unlock": false,
+  "toast_on_complete": false
+}

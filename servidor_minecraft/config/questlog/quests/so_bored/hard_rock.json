@@ -1,0 +1,72 @@
+{
+	"title": "Тяжелый металл",
+	"description": "Ходят слухи что с боссов иногда пластинки падают.. \n\nБудь добр, собери их все.",
+	"icon": {
+		"item": "cataclysm:music_disc_maledictus"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:so_bored/about"
+    }
+	],
+  "chapter": "so_boring",
+  "objectives": [
+        {
+          "type": "questlog:item_obtain",
+		  "icon": "cataclysm:music_disc_ender_guardian",
+          "item": "cataclysm:music_disc_ender_guardian"
+        },
+		{
+          "type": "questlog:item_obtain",
+		  "icon": "cataclysm:music_disc_scylla",
+          "item": "cataclysm:music_disc_scylla"
+        },
+		{
+          "type": "questlog:item_obtain",
+		  "icon": "cataclysm:music_disc_ancient_remnant",
+          "item": "cataclysm:music_disc_ancient_remnant"
+        },
+		{
+          "type": "questlog:item_obtain",
+		  "icon": "cataclysm:music_disc_the_leviathan",
+          "item": "cataclysm:music_disc_the_leviathan"
+        },
+		{
+          "type": "questlog:item_obtain",
+		  "icon": "cataclysm:music_disc_the_harbinger",
+          "item": "cataclysm:music_disc_the_harbinger"
+        },
+		{
+          "type": "questlog:item_obtain",
+		  "icon": "cataclysm:music_disc_ignis",
+          "item": "cataclysm:music_disc_ignis"
+        },
+		{
+          "type": "questlog:item_obtain",
+		  "icon": "cataclysm:music_disc_ender_guardian",
+          "item": "cataclysm:music_disc_ender_guardian"
+        },
+		{
+          "type": "questlog:item_obtain",
+		  "icon": "cataclysm:music_disc_the_cataclysmfarer",
+          "item": "cataclysm:music_disc_the_cataclysmfarer"
+        }
+  ],
+	"rewards": [
+		{
+      "type": "questlog:item",
+      "icon": "lendersdelight:leviathan_and_abyssal_egg",
+      "item": "lendersdelight:leviathan_and_abyssal_egg",
+      "count": 2,
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+    {
+      "type": "questlog:item",
+      "icon": "enigmaticdice:enigmatic_die",
+      "item": "enigmaticdice:enigmatic_die",
+      "count": 2,
+      "claim_sound": "minecraft:entity.item.pickup"
+    }
+  ]
+}

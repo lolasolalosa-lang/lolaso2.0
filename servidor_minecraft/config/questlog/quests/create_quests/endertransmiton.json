@@ -1,0 +1,58 @@
+{
+	"title": "questlog.quest.dimensions.title",
+	"description": "questlog.quest.dimensions.description",
+  "translatable": true,
+	"icon": {
+		"item": "createutilities:void_motor"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "20",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:eternal_journey_quests/magic_ingot"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:or",
+      "objectives": [
+        {
+          "type": "questlog:item_obtain",
+          "icon" : "createutilities:void_motor",
+          "item": "createutilities:void_motor"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon" : "createutilities:void_chest",
+          "item": "createutilities:void_chest"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon" : "createutilities:void_tank",
+          "item": "createutilities:void_tank"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon" : "createutilities:void_battery",
+          "item": "createutilities:void_battery"
+        }
+      ]
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "unusualend:ender_stew",
+      "item": "unusualend:ender_stew",
+      "count": 2,
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+		{
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 100
+    }
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"title": "questlog.quest.cold_sweat.title",
+	"description": "questlog.quest.cold_sweat.description",
+	"translatable": true,
+	"icon": {
+		"item": "cold_sweat:sewing_table"
+	},
+	"requirements": [
+	{
+      "type": "questlog:advancement",
+      "advancement": "cold_sweat:extreme_temps"
+    },
+	{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+	"chapter": "questlog:main",
+	"objectives": [
+		{
+			"type": "questlog:read",
+			"quest": "questlog:main_quests/06_cold_sweat"
+		}
+	],
+	"rewards": [
+		{
+			"type": "questlog:item",
+			"icon": "minecraft:leather",
+			"item": "minecraft:leather",
+			"count": 2
+		}
+	]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "matchItems": [
+      "dungeonsdelight:spider_meat"
+    ],
+    "resultItems": "miners_delight:spider_leg"
+  },
+  {
+    "matchItems": [
+      "dungeonsdelight:smoked_spider_meat"
+    ],
+    "resultItems": "miners_delight:baked_spider_leg"
+  }
+]

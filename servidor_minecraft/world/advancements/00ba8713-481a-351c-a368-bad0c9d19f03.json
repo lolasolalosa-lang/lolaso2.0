@@ -1,0 +1,590 @@
+{
+  "nethervinery:crimson_apple_press": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/goat_armor": {
+    "criteria": {
+      "has_boots_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_mid": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_nether_bag": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crested_crimson_planks": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/soulspring_lamp": {
+    "criteria": {
+      "has_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:obsidian_stem": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grape_seeds": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "create_ltab:root": {
+    "criteria": {
+      "Tick": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crested_warped_planks": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_apple_press": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:improved_nether_fizz": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grape_seeds": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermolith": {
+    "criteria": {
+      "has_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:reinforced_crimson_planks": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_nether_bag": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:repair_explorers_compass": {
+    "criteria": {
+      "has_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/waterskin": {
+    "criteria": {
+      "has_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:improved_lava_fizz": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/chameleon_armor": {
+    "criteria": {
+      "has_legs_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "has_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:reinforced_warped_planks": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_mid": {
+    "criteria": {
+      "has_the_recipe": "2026-07-31 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2026-07-31 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-07-31 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-07-31 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-07-31 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "dungeonsdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-07-31 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "clifftree:sparse_forest": "2026-07-31 03:24:41 +0000",
+      "minecraft:taiga": "2026-07-31 01:43:23 +0000",
+      "minecraft:cherry_grove": "2026-07-31 03:35:00 +0000",
+      "minecraft:sunflower_plains": "2026-07-31 03:34:43 +0000",
+      "minecraft:dark_forest": "2026-07-31 03:13:27 +0000",
+      "minecraft:river": "2026-07-31 03:05:32 +0000",
+      "minecraft:snowy_taiga": "2026-07-31 01:45:35 +0000",
+      "minecraft:swamp": "2026-07-31 01:46:16 +0000",
+      "clifftree:bog": "2026-07-31 01:44:22 +0000",
+      "minecraft:cold_ocean": "2026-07-31 02:29:30 +0000",
+      "minecraft:forest": "2026-07-31 01:42:25 +0000",
+      "minecraft:old_growth_birch_forest": "2026-07-31 03:12:35 +0000",
+      "minecraft:plains": "2026-07-31 02:30:17 +0000"
+    },
+    "done": false
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-07-31 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2026-07-31 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-07-31 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "create_ltab:plains": {
+    "criteria": {
+      "gugu": "2026-07-31 01:44:03 +0000"
+    },
+    "done": true
+  },
+  "create_ltab:cold": {
+    "criteria": {
+      "snowblock": "2026-07-31 01:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-07-31 01:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-07-31 01:47:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-07-31 01:48:04 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2026-07-31 01:49:03 +0000",
+      "opened_chest": "2026-07-31 01:48:04 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2026-07-31 01:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-07-31 01:48:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2026-07-31 01:49:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2026-07-31 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2026-07-31 01:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-07-31 01:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-07-31 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2026-07-31 01:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "tropical_fish": "2026-07-31 01:56:02 +0000",
+      "mutton": "2026-07-31 03:51:36 +0000",
+      "bread": "2026-07-31 03:16:47 +0000",
+      "rotten_flesh": "2026-07-31 02:54:07 +0000",
+      "dried_kelp": "2026-07-31 01:55:56 +0000",
+      "cooked_salmon": "2026-07-31 01:57:03 +0000",
+      "carrot": "2026-07-31 03:14:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-07-31 01:55:56 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2026-07-31 01:57:19 +0000"
+    },
+    "done": true
+  },
+  "create_ltab:core": {
+    "criteria": {
+      "gugu": "2026-07-31 02:29:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2026-07-31 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2026-07-31 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_taiga_grape_seeds": "2026-07-31 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-07-31 02:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-07-31 02:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2026-07-31 02:37:33 +0000"
+    },
+    "done": false
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2026-07-31 02:37:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2026-07-31 02:38:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ghost_mucus": {
+    "criteria": {
+      "has_item": "2026-07-31 02:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2026-07-31 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-07-31 02:44:01 +0000",
+      "quark:wraith": "2026-07-31 02:44:00 +0000",
+      "minecraft:zombie": "2026-07-31 03:47:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "quark:wraith": "2026-07-31 02:44:00 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2026-07-31 02:44:01 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2026-07-31 02:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-07-31 02:52:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2026-07-31 02:53:01 +0000",
+      "wheat": "2026-07-31 02:52:17 +0000",
+      "carrot": "2026-07-31 02:52:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-07-31 02:57:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2026-07-31 03:00:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-07-31 03:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-07-31 03:14:51 +0000"
+    },
+    "done": true
+  },
+  "dungeonsdelight:main/get_stained_scrap": {
+    "criteria": {
+      "get_stained_scrap": "2026-07-31 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-07-31 03:32:43 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

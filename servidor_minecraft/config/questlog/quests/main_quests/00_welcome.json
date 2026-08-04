@@ -1,0 +1,32 @@
+{
+	"title": "questlog.quest.welcome.title",
+	"description": "questlog.quest.welcome.description",
+	"translatable": true,
+	"icon": {
+		"item": "minecraft:player_head"
+	},
+	"chapter": "questlog:main",
+	"triggers": [],
+	"objectives": [
+		{
+			"type": "questlog:read"
+		}
+	],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 10
+    },
+	{
+      "type": "questlog:command",
+	  "name": "questlog.quest.welcome.hint3",
+      "translatable": true,
+      "icon": "create_security:magnifying_glass",
+	  "command": "/tellraw @p [{\"text\":\"[C:EJ]\",\"bold\":true,\"color\":\"gold\"},{\"translate\":\"questlog.quest.welcome.hint1\",\"bold\":false,\"color\":\"white\"},{\"translate\":\"questlog.quest.welcome.hint2\",\"color\":\"blue\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/WVEdKJa5UP\"}},{\"text\":\"!\",\"bold\":false,\"color\":\"white\"}]"
+    }
+  ],
+  "claim_sound": "minecraft:entity.experience_orb.pickup",
+  "toast_on_unlock": false,
+  "toast_on_complete": false
+}

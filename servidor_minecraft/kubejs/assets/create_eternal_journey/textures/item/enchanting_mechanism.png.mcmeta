@@ -1,0 +1,6 @@
+{
+	"overlay": {
+		"texture": "create_eternal_journey:textures/item/enchanting_mechanism.png",
+        "overlay": true
+    }
+}

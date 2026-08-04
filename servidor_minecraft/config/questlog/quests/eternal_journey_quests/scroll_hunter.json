@@ -1,0 +1,59 @@
+{
+  "title": "questlog.quest.gunhunter.title",
+  "description": "questlog.quest.gunhunter.description",
+  "translatable": true,
+  "chapter": "eternal_journey",
+  "icon":"quark:forgotten_hat",
+  "requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:eternal_journey_quests/05_find_structure"
+    }
+],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+	  "icon": "cgs:flintlock",
+      "item": "cgs:flintlock"
+    },
+    {
+      "type": "questlog:item_obtain",
+	  "icon": "cgs:revolver",
+      "item": "cgs:revolver"
+    },
+    {
+      "type": "questlog:item_obtain",
+	  "icon": "cgs:shotgun",
+      "item": "cgs:shotgun"
+    },
+    {
+      "type": "questlog:item_obtain",
+	  "icon": "cgs:nailgun",
+      "item": "cgs:nailgun"
+    },
+    {
+      "type": "questlog:item_obtain",
+	  "icon": "cgs:blazegun",
+      "item": "cgs:blazegun"
+    },
+    {
+      "type": "questlog:item_obtain",
+	  "icon": "cgs:hammer",
+      "item": "cgs:hammer"
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:loot_table",
+      "icon": "historystages:research_scroll",
+      "claim_sound": "minecraft:entity.item.pickup",
+      "loot_table": "questlog:rewards/scroll_hunter_reward"
+    },
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.item.pickup",
+      "experience": 50
+    }
+  ]
+}

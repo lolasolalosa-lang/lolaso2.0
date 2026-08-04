@@ -1,0 +1,16 @@
+{
+    "descriptions.kubejs.helium_flamingo": "The item is purely cosmetic, functionality is disabled",
+    "descriptions.kubejs.sphere": "When combined on an anvil, makes the item unbreakable!",
+    "descriptions.kubejs.backpacks": "ATTENTION! Items in your backpack DON'T SAVE when upgrading with crafting table or mechanical crafter",
+    "descriptions.kubejs.enchantment_guide": "Warning! Using ponder may \ncause the game crash",
+    "descriptions.kubejs.shotgun": "Old notes: Shotgun",
+    "descriptions.kubejs.revorvel": "Old notes: Revolver",
+    "descriptions.kubejs.nailgun": "Old notes: Nailgun",
+    "descriptions.kubejs.flintlock": "Old notes: Flintlock",
+    "descriptions.kubejs.blazegun": "Old notes: Blazegun",
+    "descriptions.kubejs.gatling": "Old notes: Gatling",
+    "descriptions.kubejs.launcher": "Old notes: Launcher",
+    "descriptions.kubejs.mending_removed": "Mending enchantment is unobtainable. \nUse Alloyed Sphere of Eternity instead.",
+    "wrench.name": "Regular wrench",
+    "wrench.description": "A priceless reward that only the most worthy can claim.."
+}

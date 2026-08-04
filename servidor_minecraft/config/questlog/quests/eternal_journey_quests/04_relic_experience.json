@@ -1,0 +1,35 @@
+{
+	"title": "questlog.quest.relics.title",
+	"description": "questlog.quest.relics.description",
+	"translatable": true,
+	"icon": {
+		"item": "relics:holy_locket"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+	"chapter": "eternal_journey",
+	"sort_order": "4",
+	"triggers": [],
+	"objectives": [
+		{
+      "type": "questlog:item_obtain",
+      "icon": "artifacts:running_shoes",
+	  "translatable": true,
+	  "name": "questlog.quest.relics.objective",
+      "item": "#rarcompat:mimificable"
+    }
+	],
+	"rewards": [
+		{
+      "type": "questlog:item",
+      "icon": "create_eternal_journey:relics_experience_nugget",
+      "item": "create_eternal_journey:relics_experience_nugget",
+      "count": 10,
+      "claim_sound": "minecraft:entity.item.pickup"
+    }
+	]
+}

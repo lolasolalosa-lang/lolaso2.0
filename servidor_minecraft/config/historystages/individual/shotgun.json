@@ -1,0 +1,22 @@
+{
+  "display_name": "Shotgun",
+  "research_time": 20,
+  "icon": "cgs:shotgun",
+  "items": [
+    "cgs:shotgun"
+  ],
+  "tags": [],
+  "mods": [],
+  "mod_exceptions": [],
+  "recipes": [],
+  "dimensions": [],
+  "structures": {
+    "structures": []
+  },
+  "entities": {
+    "spawnlock": [],
+    "attacklock": [],
+    "modLinked": []
+  },
+  "dependencies": []
+}

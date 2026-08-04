@@ -1,0 +1,10 @@
+{
+  "title": "create",
+  "description": "Тяжело инженеру в магическом мире",
+  "icon": {
+    "item": "create:wrench"
+  },
+  "color": 10385490,
+  "default_chapter": false,
+  "hidden": false
+}

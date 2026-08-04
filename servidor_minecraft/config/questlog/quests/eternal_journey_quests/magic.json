@@ -1,0 +1,47 @@
+{
+	"title": "questlog.quest.magic.title",
+	"description": "questlog.quest.magic.description",
+  "translatable": true,
+	"icon": {
+		"item": "create_eternal_journey:magic_dust"
+	},
+	"requirements": [
+		{
+      "type": "questlog:or",
+      "objectives": [
+        {
+          "type": "questlog:item_obtain",
+          "item": "create_eternal_journey:magic_dust"
+        },
+        {
+          "type": "questlog:quest_complete",
+          "quest": "questlog:eternal_journey_quests/04_relic_experience"
+        }
+      ]
+    }
+	],
+	"chapter": "eternal_journey",
+	"sort_order": "4",
+	"triggers": [],
+	"objectives": [
+		{
+      "type": "questlog:item_obtain",
+      "icon": "create_eternal_journey:magic_dust",
+      "item": "create_eternal_journey:magic_dust"
+    }
+	],
+	"rewards": [
+		{
+      "type": "questlog:item",
+      "icon": "brewinandchewin:scarlet_cheese_wheel",
+      "item": "brewinandchewin:scarlet_cheese_wheel",
+      "count": 1,
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+	{
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 100
+    }
+	]
+}

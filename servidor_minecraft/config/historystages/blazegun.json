@@ -1,0 +1,18 @@
+{
+  "display_name": "Blazegun",
+  "research_time": 20,
+  "items": [
+    "cgs:blazegun"
+  ],
+  "tags": [],
+  "mods": [],
+  "recipes": [
+    "cgs:mechanical_crafting/blazegun"
+  ],
+  "dimensions": [],
+  "entities": {
+    "spawnlock": [],
+    "attacklock": [],
+    "modLinked": []
+  }
+}

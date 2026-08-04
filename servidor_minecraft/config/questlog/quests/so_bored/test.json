@@ -1,0 +1,212 @@
+{
+	"title": "Фанат рюкзаков",
+	"description": "Создайте незеритовый рюкзак!.. \n\n.. а так же все возможные виды улучшений для него.",
+	"icon": {
+		"item": "sophisticatedbackpacks:infinity_upgrade"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:so_bored/about"
+    }
+	],
+  "chapter": "so_boring",
+  "objectives": [
+    {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:netherite_backpack",
+          "item": "sophisticatedbackpacks:netherite_backpack"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:pickup_upgrade",
+          "item": "sophisticatedbackpacks:pickup_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_pickup_upgrade",
+          "item": "sophisticatedbackpacks:advanced_pickup_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:filter_upgrade",
+          "item": "sophisticatedbackpacks:filter_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_filter_upgrade",
+          "item": "sophisticatedbackpacks:advanced_filter_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:magnet_upgrade",
+          "item": "sophisticatedbackpacks:magnet_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_magnet_upgrade",
+          "item": "sophisticatedbackpacks:advanced_magnet_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:compacting_upgrade",
+          "item": "sophisticatedbackpacks:compacting_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_compacting_upgrade",
+          "item": "sophisticatedbackpacks:advanced_compacting_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:void_upgrade",
+          "item": "sophisticatedbackpacks:void_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_void_upgrade",
+          "item": "sophisticatedbackpacks:advanced_void_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:restock_upgrade",
+          "item": "sophisticatedbackpacks:restock_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_restock_upgrade",
+          "item": "sophisticatedbackpacks:advanced_restock_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:deposit_upgrade",
+          "item": "sophisticatedbackpacks:deposit_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_deposit_upgrade",
+          "item": "sophisticatedbackpacks:advanced_deposit_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:refill_upgrade",
+          "item": "sophisticatedbackpacks:refill_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_refill_upgrade",
+          "item": "sophisticatedbackpacks:advanced_refill_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:inception_upgrade",
+          "item": "sophisticatedbackpacks:inception_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:everlasting_upgrade",
+          "item": "sophisticatedbackpacks:everlasting_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:crafting_upgrade",
+          "item": "sophisticatedbackpacks:crafting_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:stack_upgrade_starter_tier",
+          "item": "sophisticatedbackpacks:stack_upgrade_starter_tier"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:stack_upgrade_tier_1",
+          "item": "sophisticatedbackpacks:stack_upgrade_tier_1"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:stack_upgrade_tier_2",
+          "item": "sophisticatedbackpacks:stack_upgrade_tier_2"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:stack_upgrade_tier_2",
+          "item": "sophisticatedbackpacks:stack_upgrade_tier_2"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:stack_downgrade_tier_2",
+          "item": "sophisticatedbackpacks:stack_downgrade_tier_2"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:stack_downgrade_tier_3",
+          "item": "sophisticatedbackpacks:stack_downgrade_tier_3"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:stack_downgrade_tier_3",
+          "item": "sophisticatedbackpacks:stack_downgrade_tier_3"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:jukebox_upgrade",
+          "item": "sophisticatedbackpacks:jukebox_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_jukebox_upgrade",
+          "item": "sophisticatedbackpacks:advanced_jukebox_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:tool_swapper_upgrade",
+          "item": "sophisticatedbackpacks:tool_swapper_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_tool_swapper_upgrade",
+          "item": "sophisticatedbackpacks:advanced_tool_swapper_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:tank_upgrade",
+          "item": "sophisticatedbackpacks:tank_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:pump_upgrade",
+          "item": "sophisticatedbackpacks:pump_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_pump_upgrade",
+          "item": "sophisticatedbackpacks:advanced_pump_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:alchemy_upgrade",
+          "item": "sophisticatedbackpacks:alchemy_upgrade"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "sophisticatedbackpacks:advanced_alchemy_upgrade",
+          "item": "sophisticatedbackpacks:advanced_alchemy_upgrade"
+        }
+  ],
+	"rewards": [
+		{
+      "type": "questlog:item",
+      "icon": "minecraft:tall_grass",
+      "item": "minecraft:tall_grass",
+      "count": 1,
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+    {
+      "type": "questlog:item",
+      "icon": "enigmaticdice:enigmatic_die",
+      "item": "enigmaticdice:enigmatic_die",
+      "count": 10,
+      "claim_sound": "minecraft:entity.item.pickup"
+    }
+  ]
+}

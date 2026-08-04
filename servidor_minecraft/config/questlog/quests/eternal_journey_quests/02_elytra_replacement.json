@@ -1,0 +1,39 @@
+{
+  "title": "questlog.quest.elythra.title",
+  "description": "questlog.quest.elythra.description",
+  "translatable": true,
+  "icon": {
+    "item": "create_eternal_journey:weightless_sphere"
+  },
+  "requirements": [
+		{
+      "type": "questlog:visit_dimension",
+      "dimension": "minecraft:the_end"
+    }
+	],
+  "chapter": "eternal_journey",
+  "sort_order": "2",
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create_eternal_journey:weightless_sphere",
+      "item": "create_eternal_journey:weightless_sphere"
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "create_eternal_journey:relics_experience_nugget",
+      "item": "create_eternal_journey:relics_experience_nugget",
+      "count": 20,
+      "claim_sound": "minecraft:entity.item.pickup"
+    },
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 100
+    }
+  ]
+}

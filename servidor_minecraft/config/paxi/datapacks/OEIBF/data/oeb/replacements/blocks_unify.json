@@ -1,0 +1,9 @@
+[
+  {
+    "matchBlocks": [
+      "create_unbreakable:luminarchy_block",
+      "create_unbreakable:philolite_block"
+    ],
+    "resultBlocks": "minecraft:deepslate"
+  }
+]

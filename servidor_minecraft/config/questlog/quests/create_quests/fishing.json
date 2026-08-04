@@ -1,0 +1,45 @@
+{
+	"title": "questlog.quest.fishing.title",
+	"description": "questlog.quest.fishing.description",
+  "translatable": true,
+	"icon": {
+		"item": "createfisheryindustry:mesh_trap"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "13",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "createfisheryindustry:raw_lobster",
+      "required_amount": 1,
+      "item": "createfisheryindustry:raw_lobster"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "createfisheryindustry:raw_blue_mussel",
+      "required_amount": 1,
+      "item": "createfisheryindustry:raw_blue_mussel"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "createfisheryindustry:fish_skin",
+      "required_amount": 1,
+      "item": "createfisheryindustry:fish_skin"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "createfisheryindustry:seafood_chowder",
+      "item": "createfisheryindustry:seafood_chowder",
+      "claim_sound": "minecraft:entity.item.pickup",
+      "count": 2
+    }
+	]
+}

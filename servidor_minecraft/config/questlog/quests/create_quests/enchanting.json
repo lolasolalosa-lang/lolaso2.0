@@ -1,0 +1,52 @@
+{
+	"title": "questlog.quest.enchanting.title",
+	"description": "questlog.quest.enchanting.description",
+  "translatable": true,
+	"icon": {
+		"item": "create_enchantment_industry:enchanting_guide"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "12",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create_enchantment_industry:printer",
+      "required_amount": 1,
+      "item": "create_enchantment_industry:printer"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create_enchantment_industry:enchanting_guide",
+      "required_amount": 1,
+      "item": "create_enchantment_industry:enchanting_guide"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create_enchantment_industry:disenchanter",
+      "required_amount": 1,
+      "item": "create_enchantment_industry:disenchanter"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "create_enchantment_industry:hyper_experience_bottle",
+      "item": "create_enchantment_industry:hyper_experience_bottle",
+      "claim_sound": "minecraft:entity.item.pickup",
+      "count": 1
+    },
+    {
+      "type": "questlog:item",
+      "icon": "minecraft:lapis_lazuli",
+      "item": "minecraft:lapis_lazuli",
+      "claim_sound": "minecraft:entity.item.pickup",
+      "count": 8
+    }
+	]
+}

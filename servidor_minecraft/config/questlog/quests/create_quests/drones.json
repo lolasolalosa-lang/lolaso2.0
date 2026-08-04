@@ -1,0 +1,36 @@
+{
+	"title": "questlog.quest.drones.title",
+	"description": "questlog.quest.drones.description",
+  "translatable": true,
+	"icon": {
+		"item": "create_mobile_packages:robo_bee"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "19",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create_mobile_packages:bee_port",
+      "item": "create_mobile_packages:bee_port"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create_mobile_packages:robo_bee",
+      "item": "create_mobile_packages:robo_bee"
+    }
+  ],
+	"rewards": [
+		{
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 20
+    }
+	]
+}

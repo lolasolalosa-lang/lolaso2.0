@@ -1,0 +1,5 @@
+
+[Limitations]
+	#Maximum amount of entities allowed in a multi-summon command. Default is 65.
+	maximum_summon = 65.0
+

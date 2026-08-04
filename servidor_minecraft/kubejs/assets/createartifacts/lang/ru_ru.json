@@ -1,0 +1,15 @@
+{
+  "createartifacts.bubel_artifacts.tooltip": "Пока в инвентаре, медленно заполняет бак воздухом.",
+  "createartifacts.netherbubel_artifacts.tooltip": "Пока в инвентаре, восполняет бак воздухом в разы эффективнее.",
+  "createartifacts.chronoaccelerator.tooltip": "Ускоряет работу Жернова и Колес дробления в радиусе 5 блоков пока находится в инвентаре.",
+
+  "command.remove_air.success": "Removed %d units of air from tanks.",
+  "command.remove_air.failure": "You have no tanks with air!",
+
+  "block.createartifacts.tree_fertilizer_block": "Tree Fertilizer Block",
+  "item.createartifacts.bubel_artifacts": "Пузырьковый артефакт",
+  "item.createartifacts.nether_bubel_artifacts": "Улучшенный пузырьковый артефакт",
+  "item.createartifacts.chrono_accelerator": "Хроно-Ускоритель",
+  "block.createartifacts.chrono_accelerator_block": "Блок - Хроно-ускоритель"
+
+}

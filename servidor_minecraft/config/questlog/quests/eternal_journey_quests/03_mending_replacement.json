@@ -1,0 +1,34 @@
+{
+	"title": "questlog.quest.sphere.title",
+	"description": "questlog.quest.sphere.description",
+  "translatable": true,
+	"icon": {
+		"item": "create_unbreakable:irromolding"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+  "chapter": "eternal_journey",
+  "sort_order": "3",
+  "triggers": [],
+	"objectives": [
+		{
+      "type": "questlog:item_obtain",
+      "icon": "create_unbreakable:irromolding",
+      "item": "create_unbreakable:irromolding"
+    }
+	],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 50
+    }
+  ],
+   "toast_on_unlock": false,
+  "toast_on_complete": false
+}

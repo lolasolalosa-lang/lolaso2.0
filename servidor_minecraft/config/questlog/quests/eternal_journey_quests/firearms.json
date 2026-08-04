@@ -1,0 +1,49 @@
+{
+  "title": "questlog.quest.firearms.title",
+  "description": "questlog.quest.firearms.description",
+  "translatable": true,
+  "chapter": "eternal_journey",
+  "icon":"historystages:research_scroll",
+  "requirements": [
+    {
+      "type": "questlog:or",
+      "objectives": [
+        {
+          "type": "questlog:quest_complete",
+          "quest": "questlog:eternal_journey_quests/05_find_structure"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "item": "historystages:research_scroll"
+        }
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+	  "icon": "historystages:research_scroll",
+      "item": "historystages:research_scroll"
+    },
+    {
+      "type": "questlog:item_obtain",
+	  "icon": "historystages:research_pedestal",
+      "item": "historystages:research_pedestal"
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "minecraft:gunpowder",
+      "item": "minecraft:gunpowder",
+      "claim_sound": "minecraft:entity.item.pickup",
+      "count": 5
+    },
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.item.pickup",
+      "experience": 10
+    }
+  ]
+}

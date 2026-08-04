@@ -1,0 +1,50 @@
+{
+	"title": "questlog.quest.creative.title",
+	"description": "questlog.quest.creative.description",
+  "translatable": true,
+	"icon": {
+		"item": "create:creative_motor"
+	},
+	"requirements": [
+		{
+      "type": "questlog:or",
+      "objectives": [
+        {
+          "type": "questlog:item_obtain",
+          "item": "create_eternal_journey:magic_dust"
+        },
+        {
+          "type": "questlog:quest_complete",
+          "quest": "questlog:eternal_journey_quests/magic"
+        }
+      ]
+    }
+	],
+	"chapter": "eternal_journey",
+	"sort_order": "4",
+	"triggers": [],
+	"objectives": [
+		{
+      "type": "questlog:item_obtain",
+      "icon": "create:creative_motor",
+      "item": "create:creative_motor"
+    }
+	],
+	"rewards": [
+        {
+      "type": "questlog:loot_table",
+      "icon": "aquamirae:treasure_pouch",
+      "name": "questlog.quest.creative.reward",
+      "translatable": true,
+      "claim_sound": "minecraft:entity.item.pickup",
+      "loot_table": "questlog:rewards/wrench"
+    },
+		{
+      "type": "questlog:item",
+      "icon": "supplementaries:candy",
+      "item": "supplementaries:candy",
+      "count": 32,
+      "claim_sound": "minecraft:entity.item.pickup"
+    }
+	]
+}

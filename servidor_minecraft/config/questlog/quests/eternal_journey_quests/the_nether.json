@@ -1,0 +1,30 @@
+{
+	"title": "questlog.quest.nether.title",
+	"description": "questlog.quest.nether.description",
+  "translatable": true,
+	"icon": {
+		"item": "minecraft:flint_and_steel"
+	},
+  "sort_order": "1",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+  "chapter": "eternal_journey",
+  "objectives": [
+    {
+      "type": "questlog:visit_dimension",
+	  "icon": "minecraft:netherrack",
+      "dimension": "minecraft:the_nether"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 20
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "name": "rune",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "legendary_monsters:nature_crystal"
+
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "endrem:rogue_eye",
+          "weight": 50
+        }
+      ]
+    }
+    ]
+}

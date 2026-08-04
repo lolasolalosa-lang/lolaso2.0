@@ -1,0 +1,51 @@
+{
+	"title": "questlog.quest.energy.title",
+	"description": "questlog.quest.energy.description",
+  "translatable": true,
+	"icon": {
+		"item": "create:water_wheel"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "3",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/base_things"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:or",
+
+      "objectives": [
+        {
+          "type": "questlog:item_obtain",
+          "item": "create:water_wheel",
+          "icon": "create:water_wheel",
+          "required_amount": 4
+        },
+        {
+          "type": "questlog:item_obtain",
+          "item": "create:white_sail",
+          "icon": "create:white_sail",
+          "required_amount": 12
+        }
+      ]
+    }
+  ],
+	"rewards": [
+		{
+			"type": "questlog:item",
+			"item": "create:speedometer",
+      "icon": "create:speedometer",
+      "claim_sound": "minecraft:entity.item.pickup",
+			"count": 1
+		},
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

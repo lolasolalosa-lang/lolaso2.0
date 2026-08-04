@@ -1,0 +1,24 @@
+{
+  "item.mace_port.mace": "Булава",
+  "item.mace_port.heavy_core": "Тяжёлое ядро",
+  "item.mace_port.breeze_rod": "Жезл бриза",
+  "item.mace_port.wind_charge": "Заряд ветра",
+
+  "block.mace_port.heavy_core": "Тяжёлое ядро",
+
+  "entity.mace_port.wind_charge": "Заряд ветра",
+
+  "enchantment.mace_port.density": "Плотность",
+  "enchantment.mace_port.breach": "Пробой",
+  "enchantment.mace_port.wind_burst": "Порыв ветра",
+
+  "subtitles.item.mace.smash_ground": "Булава ударяет",
+  "subtitles.item.mace.smash_air": "Булава рассекает воздух",
+  "subtitles.entity.wind_charge.throw": "Заряд ветра летит",
+  "subtitles.entity.generic.wind_burst": "Заряд ветра взрывается",
+
+  "advancements.adventure.overoverkill.description": "Нанесите 50 сердец урона одним ударом булавой",
+  "advancements.adventure.overoverkill.title": "Сверх-сверхубийство",
+  "advancements.adventure.who_needs_rockets.description": "Используйте заряд ветра, чтобы подбросить себя на 8 блоков вверх",
+  "advancements.adventure.who_needs_rockets.title": "Кому нужны фейерверки?"
+}

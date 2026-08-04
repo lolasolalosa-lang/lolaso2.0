@@ -1,0 +1,17 @@
+{
+    "descriptions.kubejs.helium_flamingo": "Предмет чисто косметический, функционал отключен",
+    "descriptions.kubejs.sphere": "При совмещении на наковальне делает предмет нерушимым!",
+    "descriptions.kubejs.backpacks": "ВНИМАНИЕ! При улучшении на верстаке или на механическом сборщике предметы в рюкзаке НЕ СОХРАНЯЮТСЯ!",
+    "descriptions.kubejs.enchantment_guide": "Внимание! Использование размышления может вызвать краш игры",
+    "descriptions.kubejs.shotgun": "Старинные чертежи: Дробовик",
+    "descriptions.kubejs.revorvel": "Старинные чертежи: Револьвер",
+    "descriptions.kubejs.nailgun": "Старинные чертежи: Гвоздемёт",
+    "descriptions.kubejs.flintlock": "Старинные чертежи: Самопал",
+    "descriptions.kubejs.blazegun": "Старинные чертежи: Всполохомёт",
+    "descriptions.kubejs.gatling": "Старинные чертежи: Гатлинг",
+    "descriptions.kubejs.launcher": "Старинные чертежи: Ракетница",
+    "descriptions.kubejs.mending_removed": "Получение зачарования починки невозможно.\nВместо этого используйте Сферу вечности.",
+    "wrench.name": "Просто ключ",
+    "wrench.description": "Ценнейшая награда, которую получит лишь самый достойный.."
+    
+}

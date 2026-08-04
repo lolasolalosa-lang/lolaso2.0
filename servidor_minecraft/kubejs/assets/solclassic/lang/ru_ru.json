@@ -1,0 +1,18 @@
+{
+  "tooltip.food_reduction": "Восполняемая сытость снижена на %s%%. \nВозможно стоит попробовать съесть что-то другое..",
+  "item.solclassic.basket": "Корзина",
+  "container.basket": "Корзина",
+  "item.solclassic.large_basket": "Large Basket(old)",
+  "container.large_basket": "Large Basket(old)",
+  "item.solclassic.wicker_basket": "Wicker Basket",
+  "container.wicker_basket": "Wicker Basket",
+  "tooltip.wicker_basket.description1": "Right-click to eat the best food",
+  "tooltip.wicker_basket.description2": "Shift + Right-click to open.",
+  "tooltip.wicker_basket.food_info": "§7Next: %s (Nutrition: %s)",
+  "item.solclassic.food_history_book": "Реестр съеденной еды",
+  "tooltip.food_history_book.description": "ПКМ чтобы увидеть историю съеденного",
+  "gui.food_history_book.title": "Реестр еды",
+  "gui.food_history_book.summary": "Съедено видов еды: %s",
+  "gui.food_history_book.empty": "История отсутствует",
+  "gui.food_history_book.page": "Страница %s / %s"
+}

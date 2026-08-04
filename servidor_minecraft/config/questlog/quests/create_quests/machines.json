@@ -1,0 +1,52 @@
+{
+	"title": "questlog.quest.machines.title",
+	"description": "questlog.quest.machines.description",
+  "translatable": true,
+	"icon": {
+		"item": "create:mechanical_mixer"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "4",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/energy_sources"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create:mechanical_press",
+      "required_amount": 1,
+      "item": "create:mechanical_press"
+    },
+	{
+      "type": "questlog:item_obtain",
+      "icon": "create:mechanical_mixer",
+      "required_amount": 1,
+      "item": "create:mechanical_mixer"
+    }
+  ],
+	"rewards": [
+		{
+			"type": "questlog:item",
+			"item": "minecraft:iron_ingot",
+            "icon": "minecraft:iron_ingot",
+            "claim_sound": "minecraft:entity.item.pickup",
+			"count": 3
+		},
+    {
+			"type": "questlog:item",
+			"item": "minecraft:gold_ingot",
+            "icon": "minecraft:gold_ingot",
+            "claim_sound": "minecraft:entity.item.pickup",
+			"count": 1
+		},
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

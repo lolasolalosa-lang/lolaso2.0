@@ -1,0 +1,41 @@
+{
+	"title": "questlog.quest.loaders.title",
+	"description": "questlog.quest.loaders.description",
+  "translatable": true,
+	"icon": {
+		"item": "create_power_loader:brass_chunk_loader"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "10",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:or",
+      "objectives": [
+        {
+          "type": "questlog:item_obtain",
+          "icon": "create_power_loader:brass_chunk_loader",
+          "item": "create_power_loader:brass_chunk_loader"
+        },
+        {
+          "type": "questlog:item_obtain",
+          "icon": "create_power_loader:andesite_chunk_loader",
+          "item": "create_power_loader:andesite_chunk_loader"
+        }
+      ]
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

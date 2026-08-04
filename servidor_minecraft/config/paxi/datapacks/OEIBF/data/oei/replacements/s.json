@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "cgs:steel_ingot"
+    ],
+    "resultItems": "alloyed:steel_ingot"
+  }
+]

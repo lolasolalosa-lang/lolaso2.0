@@ -1,0 +1,12 @@
+{
+  "heavy_smash": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "cataclysm:entity/heavy_smash",
+        "stream": false,
+        "attenuation_distance": 64
+      }
+    ]
+  }
+}

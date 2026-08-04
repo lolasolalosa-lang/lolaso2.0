@@ -1,0 +1,45 @@
+{
+	"title": "questlog.quest.alloys.title",
+	"description": "questlog.quest.alloys.description",
+  "translatable": true,
+	"icon": {
+		"item": "create:blaze_burner"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "5",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/machines"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create:blaze_burner",
+      "required_amount": 1,
+      "item": "create:blaze_burner"
+    },
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create:brass_ingot",
+      "required_amount": 8,
+      "item": "create:brass_ingot"
+    }
+  ],
+	"rewards": [
+		{
+			"type": "questlog:item",
+			"item": "minecraft:coal",
+            "icon": "minecraft:coal",
+            "claim_sound": "minecraft:entity.item.pickup",
+			"count": 5
+		},
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"title": "questlog.quest.andesite.title",
+	"description": "questlog.quest.andesite.description",
+	"translatable": true,
+	"icon": {
+		"item": "create:andesite_alloy"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "1",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create:andesite_alloy",
+      "required_amount": 10,
+      "item": "create:andesite_alloy"
+    }
+  ],
+	"rewards": [
+		{
+			"type": "questlog:item",
+			"item": "create:andesite_alloy",
+            "icon": "create:andesite_alloy",
+            "claim_sound": "minecraft:entity.item.pickup",
+			"count": 2
+		}
+	]
+}

@@ -1,0 +1,5 @@
+
+[general]
+	#If true, Mending can be found in chests
+	foundInChests = false
+

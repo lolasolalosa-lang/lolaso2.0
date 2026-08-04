@@ -1,0 +1,30 @@
+{
+	"title": "questlog.quest.end.title",
+	"description": "questlog.quest.end.description",
+  "translatable": true,
+	"icon": {
+		"item": "minecraft:end_portal_frame"
+	},
+  "sort_order": "2",
+	"requirements": [
+		{
+      "type": "questlog:visit_dimension",
+      "dimension": "minecraft:the_nether"
+    }
+	],
+  "chapter": "eternal_journey",
+  "objectives": [
+    {
+      "type": "questlog:visit_dimension",
+	  "icon": "minecraft:end_stone",
+      "dimension": "minecraft:the_end"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 20
+    }
+  ]
+}

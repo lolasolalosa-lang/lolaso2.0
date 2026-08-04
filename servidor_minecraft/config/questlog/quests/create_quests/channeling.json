@@ -1,0 +1,31 @@
+{
+	"title": "questlog.quest.chanelling.title",
+	"description": "questlog.quest.chanelling.description",
+  "translatable": true,
+	"icon": {
+		"item": "create_aquatic_ambitions:mechanical_conduit"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "15",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create_aquatic_ambitions:mechanical_conduit",
+      "item": "create_aquatic_ambitions:mechanical_conduit"
+    }
+  ],
+	"rewards": [
+		{
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 20
+    }
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"title": "questlog.quest.basecomponents.title",
+	"description": "questlog.quest.basecomponents.description",
+  "translatable": true,
+	"icon": {
+		"item": "create:cogwheel"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "2",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/andesite"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create:shaft",
+      "required_amount": 4,
+      "item": "create:shaft"
+    },
+	{
+      "type": "questlog:item_obtain",
+      "icon": "create:cogwheel",
+      "required_amount": 4,
+      "item": "create:cogwheel"
+    },
+	{
+      "type": "questlog:item_obtain",
+      "icon": "create:large_cogwheel",
+      "required_amount": 4,
+      "item": "create:large_cogwheel"
+    },
+	{
+      "type": "questlog:item_obtain",
+      "icon": "create:andesite_casing",
+      "required_amount": 4,
+      "item": "create:andesite_casing"
+    }
+  ],
+	"rewards": [
+		{
+			"type": "questlog:item",
+			"item": "create:honeyed_apple",
+            "icon": "create:honeyed_apple",
+            "claim_sound": "minecraft:entity.item.pickup",
+			"count": 1
+		},
+		{
+			"type": "questlog:item",
+			"item": "create:andesite_alloy",
+            "icon": "create:andesite_alloy",
+            "claim_sound": "minecraft:entity.item.pickup",
+			"count": 4
+		}
+	]
+}

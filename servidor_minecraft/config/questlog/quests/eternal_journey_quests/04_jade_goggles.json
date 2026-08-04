@@ -1,0 +1,32 @@
+{
+	"title": "questlog.quest.goggles.title",
+	"description": "questlog.quest.goggles.description",
+  "translatable": true,
+	"icon": {
+		"item": "create:goggles"
+	},
+	"chapter": "questlog:eternal_journey",
+	"sort_order": "4",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+],
+	"objectives": [
+		{
+      "type": "questlog:item_obtain",
+      "icon": "create:goggles",
+      "required_amount": 1,
+      "item": "create:goggles"
+    }
+	],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

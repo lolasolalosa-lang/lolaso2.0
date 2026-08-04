@@ -1,0 +1,33 @@
+{
+	"title": "questlog.quest.antique_atlas.title",
+	"description": "questlog.quest.antique_atlas.description",
+	"translatable": true,
+	"icon": {
+    "texture": "questlog:textures/icons/antique_atlas.png"
+  },
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+	"chapter": "questlog:main",
+	"sort_order": "1",
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:read",
+	  "quest": "questlog:main_quests/01_antique_atlas"
+    
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 50
+    }
+  ],
+   "toast_on_unlock": false,
+  "toast_on_complete": false
+}

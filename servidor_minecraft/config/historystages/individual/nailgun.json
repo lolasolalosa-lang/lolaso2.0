@@ -1,0 +1,22 @@
+{
+  "display_name": "Nailgun",
+  "research_time": 20,
+  "icon": "cgs:nailgun",
+  "items": [
+    "cgs:nailgun"
+  ],
+  "tags": [],
+  "mods": [],
+  "mod_exceptions": [],
+  "recipes": [],
+  "dimensions": [],
+  "structures": {
+    "structures": []
+  },
+  "entities": {
+    "spawnlock": [],
+    "attacklock": [],
+    "modLinked": []
+  },
+  "dependencies": []
+}

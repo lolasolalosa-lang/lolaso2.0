@@ -1,0 +1,10 @@
+{
+  "title": "eternal_journey",
+  "description": "Ваше вечное путешествие",
+  "icon": {
+    "item": "create_unbreakable:irromolding"
+  },
+  "color": 10385490,
+  "default_chapter": false,
+  "hidden": false
+}

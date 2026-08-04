@@ -1,0 +1,35 @@
+{
+	"title": "questlog.quest.hot.title",
+	"description": "questlog.quest.hot.description",
+  "translatable": true,
+	"icon": {
+		"item": "minecraft:blaze_powder"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:eternal_journey_quests/the_nether"
+    }
+	],
+  "chapter": "eternal_journey",
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "cold_sweat:soulspring_lamp",
+      "item": "cold_sweat:soulspring_lamp"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "experience": 10
+    },
+    {
+      "type": "questlog:item",
+      "icon": "cold_sweat:soul_sprout",
+      "item": "cold_sweat:soul_sprout",
+      "count": 2
+    }
+  ]
+}

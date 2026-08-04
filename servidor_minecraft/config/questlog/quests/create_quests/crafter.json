@@ -1,0 +1,32 @@
+{
+	"title": "questlog.quest.crafter.title",
+	"description": "questlog.quest.crafter.description",
+	"translatable": true,
+  "icon": {
+		"item": "create:mechanical_crafter"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "7",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/sequensed_assembly"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "create:mechanical_crafter",
+      "required_amount": 1,
+      "item": "create:mechanical_crafter"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 30
+    }
+	]
+}

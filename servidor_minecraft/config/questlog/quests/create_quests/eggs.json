@@ -1,0 +1,38 @@
+{
+	"title": "questlog.quest.eggs.title",
+	"description": "questlog.quest.eggs.description",
+  "translatable": true,
+	"icon": {
+		"item": "createeggproduction:egg_collector_block"
+	},
+	"chapter": "questlog:create",
+	"sort_order": "16",
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:create_quests/crafter"
+    }
+],
+	 "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "icon": "createeggproduction:egg_collector_block",
+      "item": "createeggproduction:egg_collector_block"
+    }
+  ],
+	"rewards": [
+    {
+      "type": "questlog:item",
+      "icon": "minecraft:wheat_seeds",
+      "item": "minecraft:wheat_seeds",
+      "claim_sound": "minecraft:entity.item.pickup",
+      "count": 16
+    },
+		{
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+      "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 10
+    }
+	]
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "clockwork:clockwork_gear"
+    ],
+    "resultItems": "create:cogwheel"
+  }
+]

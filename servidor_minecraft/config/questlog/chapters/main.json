@@ -1,0 +1,9 @@
+{
+  "title": "main",
+  "description": "Основные задания и достижения",
+  "icon": {
+    "item": "minecraft:knowledge_book"
+  },
+  "default_chapter": true,
+  "hidden": false
+}

@@ -1,0 +1,23 @@
+{
+  "item.createvinery.red_grape_juice_bucket": "Ведро сока из Красного винограда",
+  "item.createvinery.taiga_red_grape_juice_bucket": "Ведро сока из Таежного Красного винограда",
+  "item.createvinery.jungle_red_grape_juice_bucket": "Ведро сока из Тропического Красного винограда",
+  "item.createvinery.savanna_red_grape_juice_bucket": "Ведро сока из Саваннового Краснового винограда",
+  "item.createvinery.white_grape_juice_bucket": "Ведро сока из Белого винограда",
+  "item.createvinery.taiga_white_grape_juice_bucket": "Ведро сока из Таежного Белого винограда",
+  "item.createvinery.jungle_white_grape_juice_bucket": "Ведро сока из Тропического Белого винограда",
+  "item.createvinery.savanna_white_grape_juice_bucket": "Ведро сока из Саваннового Белого винограда",
+  "item.createvinery.apple_juice_bucket": "Ведро Яблочного сока",
+
+  "creativetab.cv_items": "Create: Vinery",
+
+  "fluid_type.createvinery.red_grape_juice": "Сок из Красного винограда",
+  "fluid_type.createvinery.taiga_red_grape_juice": "Сок из Таежного Красного винограда",
+  "fluid_type.createvinery.jungle_red_grape_juice": "Сок из Тропического Красного винограда",
+  "fluid_type.createvinery.savanna_red_grape_juice": "Сок из Саваннового Красного винограда",
+  "fluid_type.createvinery.white_grape_juice": "Сок из Белого винограда",
+  "fluid_type.createvinery.taiga_white_grape_juice": "Сок из Таежного Белого винограда",
+  "fluid_type.createvinery.jungle_white_grape_juice": "Сок из Тропического Белого винограда",
+  "fluid_type.createvinery.savanna_white_grape_juice": "Сок из Саваннового Белого винограда",
+  "fluid_type.createvinery.apple_juice": "Яблочный сок"
+}

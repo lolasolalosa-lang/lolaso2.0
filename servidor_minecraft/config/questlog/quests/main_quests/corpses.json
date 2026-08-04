@@ -1,0 +1,31 @@
+{
+	"title": "questlog.quest.corpses.title",
+	"description": "questlog.quest.corpses.description",
+	"translatable": true,
+	"icon": {
+		"item": "realmrpg_skeletons:unsaved_skeleton"
+	},
+	"requirements": [
+		{
+      "type": "questlog:quest_complete",
+      "quest": "questlog:main_quests/00_welcome"
+    }
+	],
+  "chapter": "questlog:main",
+  "triggers": [],
+	"objectives": [
+		{
+			"type": "questlog:read"
+		}
+	],
+	"rewards": [
+    {
+      "type": "questlog:experience",
+      "icon": "create:experience_nugget",
+	  "claim_sound": "minecraft:entity.experience_orb.pickup",
+      "experience": 50
+    }
+  ],
+   "toast_on_unlock": false,
+  "toast_on_complete": false
+}

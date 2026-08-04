@@ -1,0 +1,134 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+    "cgs:steel_ingot",
+    "cgs:steel_sheet",
+    "cgs:steel_nugget",
+    "cgs:steel_block",
+    // "relics:infinity_ham",
+    // "alloyed:steel_ingot",
+    // "alloyed:steel_sheet",
+    // "alloyed:steel_bars",
+    // "alloyed:steel_trapdoor",
+    // "alloyed:steel_casing",
+    // "alloyed:steel_scaffolding",
+    // "alloyed:steel_door",
+    // "alloyed:locked_steel_door",
+    // "alloyed:steel_sheet_metal",
+    // "alloyed:steel_sheet_stairs",
+    // "alloyed:steel_sheet_slab",
+    // "alloyed:steel_ladder",
+    // "alloyed:steel_mesh_fence",
+    // "alloyed:steel_catwalk",
+    // "alloyed:steel_catwalk_stairs",
+    // "alloyed:steel_catwalk_railing",
+    // "alloyed:steel_nugget",
+    // "alloyed:steel_upgrade_smithing_template",
+    // "alloyed:steel_sword",
+    // "alloyed:steel_pickaxe",
+    // "alloyed:steel_axe",
+    // "alloyed:steel_shovel",
+    // "alloyed:steel_hoe",
+    // "alloyed:steel_shears",
+    // "alloyed:steel_fishing_rod",
+    // "alloyed:steel_helmet",
+    // "alloyed:steel_chestplate",
+    // "alloyed:steel_leggings",
+    // "alloyed:steel_boots",
+    // "alloyed:steel_horse_armor",
+    // "alloyed:steel_knife",
+    // "alloyed:steel_block",
+    "farmersdelight:fried_egg",
+    "itemfilters:always_true",
+    "solclassic:wicker_basket",
+    "solclassic:basket",
+    "warriorsofpastepoch:bat_soup",
+    // "relics:holy_locket",
+    // "artifacts:everlasting_beef",
+    // "artifacts:eternal_steak",
+    // "artifacts:helium_flamingo",
+    // "artifacts:scarf_of_invisibility",
+    // "artifacts:rooted_boots",
+    "supplementaries:quiver",
+    'sophisticatedbackpacks:feeding_upgrade',
+    'sophisticatedbackpacks:advanced_feeding_upgrade',
+    'sophisticatedbackpacks:smelting_upgrade',
+    'sophisticatedbackpacks:auto_smelting_upgrade',
+    'sophisticatedbackpacks:smoking_upgrade',
+    'sophisticatedbackpacks:auto_smoking_upgrade',
+    'sophisticatedbackpacks:blasting_upgrade',
+    'sophisticatedbackpacks:auto_blasting_upgrade',
+    'sophisticatedbackpacks:stonecutter_upgrade',
+    'sophisticatedbackpacks:xp_pump_upgrade',
+    'sophisticatedbackpacks:anvil_upgrade',
+    'sophisticatedbackpacks:smithing_upgrade',
+    'sophisticatedbackpacks:stack_upgrade_tier_3',
+    'sophisticatedbackpacks:stack_upgrade_tier_4',
+    'sophisticatedbackpacks:battery_upgrade',
+    'cgs:tank_empty',
+    'cgs:tank_water',
+    'cgs:tank_lava',
+    'cataclysm:ring_of_grudged',
+    'cataclysm:berserker_soul_amulet',
+    'cataclysm:unbreakable_skull',
+    'cataclysm:belt_of_beginner',
+    'vinery:mead',
+    'sophisticatedbackpacks:mob_catcher_upgrade',
+    'sophisticatedbackpacks:advanced_mob_catcher_upgrade',
+    'clockwork:clockwork_drill',
+    'clockwork:clockwork_flamethrower',
+    // 'knightlib:small_essence',
+    // 'knightlib:great_essence'
+    'mace_port:breeze_rod',
+    'cataclysm_rise:kraken_eye'
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+      "minecraft:firework_rocket"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": false
+}

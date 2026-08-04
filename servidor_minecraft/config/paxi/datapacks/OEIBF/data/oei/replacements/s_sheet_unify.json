@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "cgs:steel_sheet"
+    ],
+    "resultItems": "alloyed:steel_sheet"
+  }
+]

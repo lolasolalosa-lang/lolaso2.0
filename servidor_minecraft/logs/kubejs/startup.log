@@ -1,0 +1,14 @@
+[17:24:34] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[17:24:34] [INIT] Loaded plugins:
+[17:24:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:24:34] [INIT] - net.zhaiji.kubejscurios.kubejs.KubeJSCuriosPlugin
+[17:24:34] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[17:24:34] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
+[17:24:34] [INIT] - com.sighs.oneenoughenchantment.compat.OEEJSPlugin
+[17:24:34] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[17:24:34] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
+[17:24:34] [INIT] - com.almostreliable.morejs.Plugin
+[17:24:34] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[17:24:35] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[17:24:35] [INFO] Loaded script startup_scripts:example.js in 0.121 s
+[17:24:35] [INFO] Loaded 1/1 KubeJS startup scripts in 1.0 s with 0 errors and 0 warnings

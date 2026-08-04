@@ -1,0 +1,15 @@
+{
+  "createartifacts.bubel_artifacts.tooltip": "When in the inventory, refills the Backtank with air.",
+  "createartifacts.netherbubel_artifacts.tooltip": "When in the inventory, refills the Backtank with air much more efficiently.",
+  "createartifacts.chronoaccelerator.tooltip": "Speeds up the operation of Millstones and Crushing Wheels within a 5-block radius when in the inventory.",
+
+  "command.remove_air.success": "Removed %d units of air from tanks.",
+  "command.remove_air.failure": "You have no tanks with air!",
+
+  "block.createartifacts.tree_fertilizer_block": "Tree Fertilizer Block",
+  "item.createartifacts.bubel_artifacts": "Bubble Artifact",
+  "item.createartifacts.nether_bubel_artifacts": "Enhanced Bubble Artifact",
+  "item.createartifacts.chrono_accelerator": "Chrono Accelerator",
+  "block.createartifacts.chrono_accelerator_block": "Chrono Accelerator Block"
+
+}
